@@ -1,0 +1,2234 @@
+Abstract 
+This paper reviews the existing research on green finance. It identifies the important themes in 
+the green finance literature, particularly, the strategies to increase green financing; efforts to 
+make green investment profitable; promoting green financing using technology and policy, the 
+role of regulators and financial institutions in the green finance agenda, and the challenges of 
+green financing. Several cross-country observations about the challenges of green finance and 
+solutions to green finance issues are documented. The findings show that green finance has the 
+potential to make a significant difference in the environment, society and for climate change 
+mitigation, but many challenges abound such as the lack of awareness about green finance, 
+inconsistent definitions of green finance, lack of policy coordination for green financing, 
+inconsistent policies, and lack of profitable incentives to investors and financial institutions who 
+are willing to invest in climate change mitigation. 
+Keywords: literature review, green finance, green investment, climate change, sustainable 
+finance, green bonds, green banks, sustainable development goals, climate finance, 
+environment, green loan, climate change mitigation. Paris Agreement, COP26.
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/359204126
+ Green finance research around the world: a review of literature
+ Article  in  International Journal of Green Economics · April 2022
+ DOI: 10.1504/IJGE.2022.10048432
+ CITATIONS
+ 58
+ 1 author:
+ Peterson K. Ozili
+ Academic
+ 389 PUBLICATIONS   11,168 CITATIONS   
+SEE PROFILE
+ All content following this page was uploaded by Peterson K. Ozili on 11 June 2022.
+ READS
+ 22,093
+ The user has requested enhancement of the downloaded file.
+Green finance research around the world: a review of literature 
+Peterson K. Ozili 
+Abstract 
+This paper reviews the existing research on green finance. It identifies the important themes in 
+the green finance literature, particularly, the strategies to increase green financing; efforts to 
+make green investment profitable; promoting green financing using technology and policy, the 
+role of regulators and financial institutions in the green finance agenda, and the challenges of 
+green financing. Several cross-country observations about the challenges of green finance and 
+solutions to green finance issues are documented. The findings show that green finance has the 
+potential to make a significant difference in the environment, society and for climate change 
+mitigation, but many challenges abound such as the lack of awareness about green finance, 
+inconsistent definitions of green finance, lack of policy coordination for green financing, 
+inconsistent policies, and lack of profitable incentives to investors and financial institutions who 
+are willing to invest in climate change mitigation. 
+Keywords: literature review, green finance, green investment, climate change, sustainable 
+finance, green bonds, green banks, sustainable development goals, climate finance, 
+environment, green loan, climate change mitigation. Paris Agreement, COP26. 
+JEL Code: F64, F65, G21, Q01, Q56. 
+Published in: International Journal of Green Economics 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+1. Introduction 
+In this paper, I review the existing research on green finance. In the review, I identify the 
+dominant research themes in the green finance literature, and suggest important areas for 
+further research in green finance academic and policy discourse. Broadly defined, green finance 
+is the acquisition and utilization of funds for activities that protect the environment and deliver 
+a fair return to investors or lenders (Berensmann and Lindenberg, 2019; Ozili, 2021a). The 
+objective of green finance is to increase the level of financial flows from financial institutions to 
+economic agents involved in projects and activities that preserve the environment towards 
+achieving the sustainable development goals (Lee and Baral, 2017; Force, 2015). 
+The need to reduce harm to the environment, caused by fossil fuel emissions, has led to calls for 
+divestment from fossil fuel activities, and a shift to investing in low-carbon projects and activities 
+that protect the environment in a sustainable way (Bergman, 2018; Cleveland and Reibstein, 
+2015). This call has both national and international dimensions. At the national level, many 
+countries like Canada, Japan, Mexico and the United Kingdom have issued policy statements to 
+increase citizens’ awareness about the negative effects of fossil fuel emissions on the climate, 
+and the associated climate change risks. At the international level, countries have signed the Paris 
+Agreement which is a legally binding international treaty on climate change mitigation (Dimitrov, 
+2016; Blau, 2017). The purpose of the Paris Agreement is to limit global warning to below 2 or 
+1.5 degree Celsius (Rogelj et al, 2016; Hoegh-Guldberg et al, 2018). The members of the United 
+Nations Climate Change Conference of the Parties, popularly known as (COP26), have also made 
+some commitment to reduce greenhouse gas emissions. To achieve the Paris Agreement 
+objective and the COP26 mandate, a lot of financial resources need to be mobilized (Tollefson, 
+2018). These financial resources are commonly referred to as green finance or green financial 
+instruments. The transition to ‘low carbon’ or ‘environment-friendly’ economic activities requires 
+novel financing to cater for the needs of a small but growing green economy (Dikau and Volz, 
+2021; Lamperti et al, 2019; Sachs et al, 2019a). Therefore, proponents of a green economy have 
+proposed ‘green finance’ as a viable solution to meet the financing needs of individuals, 
+corporations and governments involved in projects and activities that preserve the environment 
+2 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+in a sustainable way (Mohd and Kaushal, 2018; Falcone and Sica, 2019; Soundarrajan and Vivek, 
+2016). 
+Green finance is a recent innovation that offers an alternative financing pathway to individuals, 
+corporations and governments willing to fund and invest in green activities or low carbon 
+activities (Huang et al, 2019). The benefits of green finance include: the distribution of funds to 
+preserve the environment (Wang and Zhi, 2016), the flow of funds to sustainable trade and 
+investment activities (Eyraud et al, 2013), low-risk financing (Taghizadeh-Hesary and Yoshino, 
+2019), and the development of green investment and financing instruments (Sachs et al, 2019a). 
+Despite these benefits of green finance, it is important to understand that green finance is only 
+one aspect of sustainable finance for sustainable development. Apart from green finance, there 
+are other sustainable finance options such as social finance, blue finance and digital finance, 
+among others (Ozili, 2021a).  
+In this paper, I focus on green finance. The level of interest in green finance has increased 
+significantly in the industry. An example that illustrates the growing interest in green finance is 
+the green finance schemes developed by many financial institutions and corporations such as: 
+the green home loans by Bendigo Bank in Australia; the government-led ‘green’ mortgage 
+initiatives by Dutch banks in Europe; solar energy financing by NRB bank in the United States; 
+environmental home equity program by Bank of America in the United States; clean air auto loan 
+products by VanCity in Canada; the issuance of climate credit card by Radobank in Europe, and 
+the Landcare Term Deposit by Westpac in Australia.1 Meanwhile, interest in green finance among 
+academics and researchers is relatively low, and the number of scientific articles focusing on 
+green finance is still very low.  
+Some studies have emerged recently in the green finance literature. These studies examine a 
+number of issues such as: private participation in green finance (Taghizadeh-Hesary and Yoshino, 
+2019); the role of green finance in achieving the United Nations sustainable development goals 
+1https://www.unepfi.org/fileadmin/documents/greenprods_01.pdf 
+3 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+(Meena, 2013; Dörry and Schulz, 2018; Sachs et al, 2019a); closing the green financing gap 
+(Hafner et al, 2020); the role of central banks in green financing (Volz, 2017); the development 
+of the green finance sector (Weber and ElAlfy, 2019); the definition problems of green finance 
+(Lindenberg, 2014; Berrou et al, 2019), and the interrelationship between green finance and 
+other alternative finance instruments such as digital finance and social finance (Ozili, 2021a).  
+At this juncture, I will like to commend Zhang et al (2019) for their review of existing green finance 
+research. They used a bibliometric analysis approach, and show that there is no generally agreed 
+definition of green finance. They also suggest the need for more research on green finance in 
+developing countries. To complement Zhang et al (2019), I bring together in this article the most 
+recent developments in green finance research. The aim is to provide a comprehensive 
+understanding of green finance to academics, policy makers and practitioners. To do this, I review 
+the policy, practitioner and academic literatures on green finance to identify the most salient 
+developments and issues in the green finance literature, and thereafter, suggest some directions 
+for further research. 
+This review article contributes to the literature in the following ways. One, the review contributes 
+to the sustainable finance literature. Studies in this literature include Dörry and Schulz (2018), 
+Schumacher et al (2020), Durrani et al (2020), Ozili (2022a), etc. In the paper, I show that green 
+finance is one approach to fund activities geared towards achieving the sustainable development 
+goals. Two, this paper contributes to the literature that examine how innovative finance 
+contributes to development. Studies in this literature include O'Sullivan (2005), Fagiolo et al 
+(2020), Egger and Keuschnigg (2015) and Zhu et al (2020). In the paper, I show that green finance 
+is an innovative approach for environmental financing for sustainable development. Three, this 
+paper contributes to the literature that suggest ideas towards achieving the United Nations 2030 
+sustainable development goals (Bebbington and Unerman, 2018; Bernstein, 2017). The paper 
+shows that green finance is mostly considered to be a sustainable financing tool to help achieve 
+the United Nations sustainable development goals. Four, this review article provides a guide to 
+both researchers and practitioners on the subject of green finance, highlighting the main issues, 
+the challenges, real-observations, and some research areas that need further investigation. 
+4 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+Finally, the remarks about the future directions for green finance research in this review article 
+are limited to issues in the literature that I find to be particularly significant. My aim in this review 
+is to elicit comments and stimulate debates that will advance green finance research in the 
+literature. 
+The rest of the paper is organised as follows. Section 2 presents the methodology. Section 3 
+discuss several green finance concepts. Section 4 discuss the existing green finance research 
+around the world.  Section 5 suggests some directions for future research. Section 6 presents the 
+conclusions. 
+2. Methodology 
+The articles used in the review are journal articles, industry practitioner papers and policy 
+reports. The selection of articles was done manually. A systematic search was conducted on 
+Google Scholar using article abstract search and a search on the body-of-articles. This approach 
+was taken on the assumption that the article abstract and the content of an article would contain 
+the dominant green finance keywords used in the article search. The keywords are “green 
+finance”, “green bonds” and “green financing”. Thesis and dissertation articles were excluded 
+from this review. A further search was conducted on Google search engine to extract useful 
+practitioner white papers and policy reports. A 2010 cut-off year was applied to ensure that the 
+review captures the recent research in the green finance literature. 
+5 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+3. Conceptual literature 
+This section presents some important concepts that have dominated the green finance literature 
+in recent years such as: green finance definitions; the importance of green finance; green finance 
+products and instruments; the promoters of green finance; strategies for promoting green 
+financing and investments, among others. 
+3.1. Definitions of green finance 
+There are several definitions of green finance. Lindenberg (2014) defines green finance as the 
+financing of public and private green investments. Ozili (2021a) defines green finance as the 
+financing of projects that yield economic benefits while promoting a sustainable environment. 
+Wang and Zhi (2016) define green finance as finance that integrates environmental protection 
+with economic profits. Lindenberg (2014) shows that green finance encompasses all investments 
+in environmental goods and services, and investment in activities that reduce damage to the 
+environment and the climate. Also, in public policy, green finance involves the financing of public 
+policies that encourage the implementation of environment protection projects or environment 
+damage mitigation projects and initiatives (Lindenberg, 2014). Bahl (2012) defines green finance 
+as the financing of environment-friendly activities, green technology, and projects that reduce 
+pollution. 
+3.2. Why green finance is important 
+Green finance is important because of its perceived benefits. Green finance promotes the 
+construction of smart cities in the long run (He et al, 2020). Green finance promotes inclusive 
+economic growth (Wang and Wang, 2020). Investments in green projects can reduce short- and 
+long-term carbon emission levels (Li et al, 2021). Green financing will benefit institutional 
+shareholders interested in impact investing (Tang and Zhang, 2020; Barber et al, 2021). Green 
+financing has diversification benefits to investors in corporate and treasury markets (Reboredo, 
+2018). Increase in green financing can reduce funding for fossil fuel activities that pose a risk to 
+the environment and the climate (Sachs et al, 2019a, Ozili, 2022a). 
+6 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+3.3. Green finance products and instruments 
+A ‘traditional’ financial product, service or instrument can be made ‘green’ if the product, serrvice 
+or instrument is used to raise funds that will be spent on environmentally-friendly investments, 
+projects or activities (Li et al, 2018). Examples include: a loan issued at low interest rates to plant 
+trees in some communities, syndicated loans to finance cross-border green projects, green 
+mortgage loans, solar energy financing, and clean air auto loan products. 
+Green instruments are instruments used to raise funds for green projects. The literature 
+documents some examples of green finance instruments such as: green bonds, structured green 
+funds (Lindenberg, 2014; Sachs et al, 2019b; Chang et al, 2019); carbon market instruments, 
+community-based green funds (Sachs et al, 2019b); green bond grant scheme (Chang et al, 2019); 
+international climate fund (GFI, 2016); green venture capital and green venture fund (Randjelovic 
+et al, 2003; Nassiry and Wheeler, 2011). 
+3.4. Promoters of green finance 
+The main agents promoting the growth and development of green finance are banks, institutional 
+investors, research institutes, public agencies, central banks, financial regulators, international 
+financial institutions, and universities (Berensmann and Lindenberg, 2016; Ozili, 2019). Oh and 
+Kim (2018) and Ozili (2022b) show that private firms such as commercial banks and private equity 
+funds play an important role in promoting green finance. For instance, the European Investment 
+Bank (EIB) plays a key role in financing renewable energy projects and energy efficiency 
+improvement projects in Europe while government agencies in European countries tend to focus 
+on providing an enabling policy environment for green projects (Wang and Zhi, 2016). 
+3.5. Strategies for increasing green financing and investments 
+Berensmann and Lindenberg (2016) suggest some strategies for increasing the flow of private 
+capital to green projects and activities. They include: designing an enabling business environment 
+that facilitates green financing; developing standards and rules for disclosure that would promote 
+the growth of green finance assets; providing financial and regulatory incentives to encourage 
+green financing and investments, fostering greater transparency in the definition of green 
+7 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+finance; and finally, existing financial, environmental and regulatory policies should be better 
+coordinated. Tu et al (2020) show that the presence of an efficient legal framework for green 
+bond operations is crucial for developing green bond markets while Oh and Kim (2018) suggest 
+that the government need to collaborate with private firms to improve green financing. 
+3.6. Making green investment a profitable venture through green financing 
+Sachs et al (2019a) show that financial institutions show more interest in fossil fuel projects than 
+green projects, mainly because there are unknown risks associated with green investment, and 
+they offer a low rate of return compared to fossil fuel investment. Taghizadeh-Hesary and 
+Yoshino (2019) offered two ideas on how to increase private participation in green 
+investment. The first idea is the creation of green credit guarantee schemes. The second idea is 
+to return a portion of the tax revenue, originally generated from the spillover effect of green 
+energy supply, to investors. They suggest that these two approach can reduce the risk of green 
+investment and increase the rate of return to green investors. 
+3.7. Using technology to advance green finance and green investment 
+Taghizadeh-Hesary and Yoshino (2019) suggest that the use of distributed ledger technologies 
+(or blockchains) can increase transparency in green financing and investment. Ozili (2021a) show 
+that digital finance innovations can facilitate the funding of green projects which implies that 
+digital finance is an enabler of green finance. Also, Ozili (2022c) shows that a blockchain-based 
+central bank digital currency can increase the volume of financial activities in various sectors of 
+the green economy particularly the circular economy. 
+Nassiry (2018) suggests three broad areas for the application of Fintech to green finance, namely, 
+(i) blockchain applications for sustainable development; (ii) blockchain use-cases for renewable 
+energy, decentralized electricity market, carbon credits and climate finance; and (iii) innovation 
+in financial instruments, including green bonds. Zhang et al (2018) argue that a government 
+should provide a friendly regulatory environment that allows blockchain and other innovative 
+technologies to supplement existing institutional frameworks towards achieving a sustainable 
+environment and development goals. 
+8 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+3.8. The role of regulatory agencies and institutions 
+Volz (2017) examined the role of central banks in greening the financial system. Volz (2017) 
+showed that central banks can use several tools and policy instruments to green the financial 
+system. Some suggested tools that can be used by central banks include: discount policy, reserve 
+requirements, capital requirements, open market operations, foreign exchange intervention, 
+macro prudential policies, risk guidance, central bank communication, international cooperation 
+among central banks. Some suggested policy instruments include: capital controls, interest rate 
+controls, and offering swap lines. Ozili (2021b) also explored some options that central banks can 
+use to reduce climate risk towards promoting a green economy. The options include: (i) imposing 
+a climate change capital surcharge; (ii) imposing a fixed-rate risk capital - based on Tier 2 capital; 
+(iii) a reduction in lending to industries whose activities destroy the environment and climate; (iv) 
+creating a climate bank; and (v) requiring financial institutions to relocate their important assets 
+to areas less prone to climate change events. 
+3.9. Challenges of green finance 
+Berensmann and Lindenberg (2016) identified some microeconomic challenges to green finance. 
+The challenges include: problems in internalizing environmental externalities, information 
+asymmetry problems, inadequate analytical capacity, lack of clarity in the definition of “green” 
+in green finance, maturity mismatch between short-term and long-term green investment, the 
+relatively short-term time horizon of savers and investors, lack of effective coordination between 
+financial and environmental policies, and the lack of clarity on the extent of government support 
+for the transition to a green economy. Falcone and Sica (2019) document other challenges to 
+green finance. They include (i) uncertainty about government policies; (ii) limited policy support 
+for the commercialization of new technologies; (iii) scarce involvement of financial suppliers in 
+the biomass sector; (iv) finance not being tailored to small-scale investment needs; (v) the short
+term orientation of financial instruments; (vi) limited knowledge about financing options; and 
+(vii) limited technical expertise within companies. 
+Gilchrist et al (2021) also identified some challenges of green finance for corporations. The 
+challenges include (i) difficulty in the analysis of green finance, (ii) lack of consistency in assessing 
+9 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+corporate greenness, (iii) the ambiguous definition of corporate greenness, and (iv) the 
+unavailability of green data. Ntsama et al (2021) showed that institutional, financial, and political 
+barriers in low-income and middle-income countries are responsible for the undeveloped green 
+markets while Schletz et al (2020) state that the inability of green investment vehicles to grow 
+green investment is partly attributed to high transaction costs for green certification and 
+monitoring. Guild (2020) showed that poor institutional design of the renewable energy sector 
+creates misaligned incentive structure for players in the renewable energy sector. Schletz et al 
+(2020) explored the potential of blockchain-based security tokens to address market failure in 
+green finance. They identified some challenges such as: software risk, regulatory uncertainty, and 
+immature investment infrastructure. 
+4. Green finance research around the World 
+This section reviews some developments, observations, arguments and research evidence on 
+green financing in several regions of the World. 
+4.1. Europe 
+Most studies on green finance in Europe are policy reports. There are very few academic studies. 
+A European commission report (2017) shows that the common green financing strategies 
+adopted in Europe are (i) ‘green bonds’ that are issued following green bond principles, (ii) ‘green 
+lending’ by banks involved in green loan origination, and (iii) ‘green equity investment’. 
+In Austria, Breitenfellner et al (2020) analyse the green finance market in Austria. They predict 
+that the annual investment in Austria’s green economy will grow to an estimated EUR 17 billion 
+between 2021 and 2030. They argue that public funding alone will not be sufficient, and that 
+private capital should be mobilized to fund sustainable (or green) projects. They further argue 
+that green finance will be a major breakthrough in achieving this goal. They acknowledge some 
+existing weaknesses in the Austria financial system. They state that the Austrian market for 
+sustainable finance products is underdeveloped by international standards, it is dominated by 
+10 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+mutual funds and driven by institutional investors and not by private investors. They also point 
+out that customers’ awareness of sustainable finance products is still low in Austria. 
+In Italy, Falcone and Sica (2019), in their survey of Italian biomass producers, observe that the 
+availability of green finance options does not prevent biomass producers from facing institutional 
+and financial difficulties in funding their investment projects. Some of the difficulties 
+encountered by the biomass producers are: uncertainty about government policies, the minimal 
+involvement of financial suppliers in the biomass sector, the short-term orientation of green 
+financial instruments, and the limited knowledge of available financing options. 
+In the United Kingdom, CBI (2019) shows that many businesses and financial institutions are 
+embracing the opportunities that green finance brings. Other businesses and financial 
+institutions have not embraced green finance due to lack of knowledge, lack of awareness about 
+green finance, limited access to clear data and an inadequate policy. CBI (2019) recommends that 
+the UK finance industry should be encouraged to move towards green financing.  CBI (2019) also 
+recommends that existing financial legislations should be re-examined to identify where 
+incentives can be built-in to encourage green finance.  
+In the Netherlands, a report by New Pathways (2020) documents that green funds allow 
+individuals to invest in funds specifically directed at qualifying green projects such as renewable 
+energy, wildlife conservation, and organic farmland. At least 70% of the funds’ volume should be 
+invested in qualifying green projects (New Pathways, 2020). Between 2000 and 2009, there were 
+6,066 projects financed with over €7.3bn of funding from quarter of a million individual investors 
+(New Pathways, 2020). 
+In Russia, Damianova et al (2018) show that Russian authorities need to put the right conditions 
+and incentives in place to encourage financial institutions and private investors to participate in 
+green financing. They identified some challenges to the development of green finance in Russia. 
+The challenges are: (i) the absence of a champion public sector agency to coordinate all relevant 
+stakeholders towards green financing; (ii) lack of many pipeline of green projects due to modest 
+carbon reduction targets, underdeveloped green procurement, weak enforcement of existing 
+environmental regulations and sector-level targets; (iii) lack of a regulatory framework for green 
+11 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+finance instruments; and (iv) lack of awareness about the risks and return opportunities 
+associated with green finance. To address the challenges of green finance development in Russia, 
+Damianova et al (2018) suggest some solutions which include: (i) revisiting climate change 
+commitments and assessing the financing needs of the green sector (e.g. green buildings, clean 
+transport, renewable energy, waste management, sustainable agriculture etc.); (ii) identifying a 
+national green finance champion, and establishing a coordination body represented by the key 
+stakeholders; (iii) developing a green finance roadmap and corresponding action plan; (iv) 
+exploring the potential impact of climate change and the low-carbon transition on 
+macroeconomic and financial stability; (v) incorporating a green agenda in public policy 
+institutions’ mandates and public procurement; and (vi) raising awareness about green finance 
+and building capacity at all levels. 
+In Ukraine, Sokolova et al (2019) show that the Ukrainian government has not shown significant 
+interest in the green economy. For this reason, non-governmental organizations in Ukraine have 
+a more direct influence in the process of building a green economy than the government itself. 
+Meanwhile, the creation of the Ukrainian Green Bank “Ukrgasbank” has increased the prospects 
+of green financing in Ukraine even though the creation of the green bank was not a government
+led initiative. 
+In the European Union, Chuah (2020) critically analyse an EU green shipping finance facility, and 
+argue that a finance facility, however green, will always have contractual constrictions, policy 
+constraints and finance prudential limits, which calls into question the usefulness of “green 
+finance.” 
+4.2. Asia 
+In Asia, there are notable developments in green finance. Tolliver et al (2021) show that the 
+amount of green finance in Asia has increased to meet the growing demand for sustainable 
+economic development in the region. Countries like Japan, China, and South Korea have 
+witnessed significant increase in green bond issuance. China has been a global leader in green 
+bond issuance since 2015 while green bond issuance by large financial corporations and 
+development banks in Japan and South Korea continue to grow. Meanwhile, Escalante et al 
+12 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+(2020) found a lack of diversity in green bond market participation in China. In Hong Kong, HKGFA 
+(2020) documents some of the green finance development in some parts of Asia. HKGFA (2020) 
+reports that there is a cross-agency steering group established to accelerate the growth of green 
+and sustainable finance, and support the government’s climate strategies. There is also a self
+assessment framework to enable the measurement of “greenness baseline” of individual 
+authorized institutions. There is also a comprehensive database platform dedicated to providing 
+investors with information about sustainable (and green) investment options in Hong Kong’s 
+securities market. Meanwhile, in mainland China, HKGFA (2020) reports the existence of 
+Shanghai-Singapore financial co-operation, and virtual events on China green bond market. 
+Volz (2018) acknowledges that green investment is difficult in Asia for many reasons. They 
+include: the difficult investment conditions; adverse regulatory and legal environment; 
+inconsistent policies; cumbersome permission procedures; lack of awareness of environmental 
+and climate risks; lack of training for staff responsible for assessing environmental and climate 
+risk in the finance industry; shortage of staff with experience in green lending; shortage of 
+bankable and investable projects; lack of mandatory environmental risk analysis; and lack of 
+environmental, social and governance (ESG) disclosure requirements. Volz (2018) suggests some 
+solutions to enhance green finance in Asia. They include: raising awareness about environmental 
+and climate risks in the financial sector; developing capacity in the finance industry for 
+environmental risk analysis and management through knowledge-building and knowledge 
+sharing; building up capacity in the finance industry needed to develop green lending 
+instruments; enhancing transparency through ESG disclosure requirements; providing incentives 
+for the financing of green projects; supporting the development of new market segments such 
+as the green bond market or climate risk insurance; developing long-term local currency 
+refinancing sources for banks to enable them to extend long-term credit. 
+In India, Jena and Dhruba (2020) show that there is a growing need to sensitize India’s financial 
+sector on the importance and benefits of green finance. They also suggest that a sustained, 
+market-led collaborative action is needed to accelerate green capital flows in India, beginning 
+with an agreed formal definition of green finance. Other efforts include: formulating policies to 
+incentivize green finance, and introduce penalties for carbon-intensive investment. 
+13 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+In Singapore, Chang (2019) identifies some challenges and solutions for promoting green 
+financing in Singapore. Some identified challenges include the following: (i) small and medium
+sized enterprises (SMEs) in Singapore do not have access to the process of issuing green bonds 
+because they are small and are not capable of taking on projects that can be financed by green 
+bonds; (ii) lack of awareness of green finance by SMEs; (iii) the domestic market for green bonds 
+is small in Singapore; (iv) transparency and reporting are two main risks in the green bond market. 
+Chang (2019) suggests the following solutions which include (i) establishing clarity for what 
+constitutes “green,”; (ii) releasing more information on bond issuers’ ESG performance; (iii) 
+enhancing the transparency of the quality of financial instruments for green investments, (iv) 
+creating demand for green investments by establishing green pockets; (v), build and share 
+knowledge and capacity; (vi) jump-start green finance markets and investment, and (vii) define 
+the value of green.  
+4.3. Africa 
+There are very few studies on green finance in Africa. In policy circles, South Africa is the only 
+African country that has a formal national strategy for green finance. In December 2017, Nigeria 
+became the first country in Africa, and only the fourth in the world, to issue a sovereign green 
+bond. The ‘green climate fund’ was the biggest cumulative multilateral climate fund active in Sub 
+Saharan Africa in 2019, followed by the Least Developed Countries Fund and the World Bank 
+administered Clean Technology Fund (Watson and Schalatek, 2019).  
+In the African region, Morocco and Nigeria have developed national plans for sustainable green 
+financing. In South Africa, the Johannesburg Stock Exchange created a dedicated green segment 
+in the stock exchange. Kenya has launched green bonds guidelines in a joint collaboration 
+between the capital market authority and the Nairobi Securities Exchange. Seychelles and 
+Namibia have announced the issuance of blue and green bonds, respectively. Mauritius and 
+Gabon have developed national roadmaps to launch green bonds. Central Africa has started to 
+develop its green capital market. 
+Zadek and Flynn (2013) show that south-originating green finance (SGF) flows are growing in 
+South Africa. This is because South Africa has sophisticated financial markets which offer 
+14 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+opportunities for financial institutions to invest in longer-term green investments. In 2012, 
+Nedbank created South Africa’s first Green Bond. The bond was issued by the Industrial 
+Development Corporation of South Africa. The green bond is a fixed-term investment available 
+to all individuals and earns interest at a fixed rate of up to 7.5% for the duration of the 
+investment. All funds invested in the green bond are set aside for renewable energy projects that 
+contribute towards growing South Africa’s green economy. 
+UNEP (2015) suggests some policy options that can help to mobilize capital towards a green 
+economy in the African continent. They include: the provision of green and inclusive credit 
+guidelines and incentives, the issuance in green bonds, and the inclusion of green securities and 
+green stocks in African stock exchange. Dia (2019) suggests that African countries have begun to 
+experiment with innovative finance such as crowd-funding for clean energy in Uganda and green 
+bond financing in Nigeria. Marbuah (2020) explores the green bonds market in Africa, and show 
+evidence of modest growth of the green bonds market in Africa. The market is dominated by a 
+small number of states with a cumulative issuance of less than 1 per cent of global volumes, 
+meanwhile, multilateral development institutions have the largest green bonds issue in Africa. 
+LSEG (2020) recommends that African countries will need to look at scaling down their exposure 
+to the fossil fuel industry, and African governments will need to make public policy shifts in favour 
+of a greener and more climate-resilient economy. Government involvement will be vital in 
+developing the African green finance markets through the creation of policies that make holding 
+green assets more attractive. 
+Overall, the success factors that are crucial for developing the green finance market in Africa are: 
+effective interaction between public officials and private actors, international collaboration and 
+capacity building, active underlying securities markets, improved disclosure and capital market 
+incentives; and the provision of strong guidance on what is ‘green’ and the agreed definition has 
+to be consistent with international guidelines. 
+15 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+4.4. North and South America 
+CBI (2017) shows that the rise of the green bond market in Brazil and Mexico has helped to boost 
+cross-regional trade. UNEP (2019) documents that Argentina issued three green bond deals 
+between 2017 and 2018: two green bonds from sub national institutions and one green bonds 
+from a financial institution. ECLAC (2017) documents the developments in the green bond market 
+in Latin America and the Caribbean. The ECLAC (2017) report shows that the region issued US$ 
+8.4 billion in bonds in local and international markets between 2014 and 2017 (as of August 31, 
+2017). The bulk of the region’s green-focused bonds of US$7.1 billion were issued in international 
+markets. On average, green bonds represented only 1.6% of the total Latin American and 
+Caribbean bond issuance in international markets in the period. In the first half of 2017, green 
+bonds accounted for 3.7% of the region’s total international debt issuance (ECLAC, 2017).  
+Similarly, Ketterer et al (2019) show that there is need to ensure that local ‘green’ definitions and 
+standards are aligned with internationally accepted guidelines to avoid confusion and 
+reputational risk in the Latin and Caribbean region. They suggest that more information should 
+be provided to improve international investors’ understanding of general bond market 
+performance and green bond performance in the Latin American and Caribbean region. 
+In Mexico, Lovells (2019) documents that the first Mexican green bond was issued in 2015 to 
+fund wind energy generation projects in Mexico. The government of Mexico City in 2016 became 
+the first local government in Latin America to launch a local green bond to finance climate
+resilient infrastructure. The second local green bond was issued in 2017 for US$80million for the 
+construction of the Metrobus Line 7’s road corridor, which financed the construction of 
+terminals. The third local green bond in Mexico City was issued in 2018 for US$57million for 27 
+projects related to energy efficiency projects, the maintenance of the Metrobus, and 
+improvement in drinking water and sewage infrastructure in certain communities in Mexico City. 
+In Canada, ECCC (2018) shows that an expert panel on sustainable finance recommended that (i) 
+the Canadian government should embed climate-related risk into the monitoring, regulation and 
+supervision of Canada’s financial system; (ii) expand Canada’s green fixed income market; and 
+(iii) set a global standard for transition-oriented financing.  
+16 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+4.5. Oceania 
+There are very few studies on green finance for countries in the Oceania continent. 
+In New Zealand, NZGIF (2019) shows that the government established a green investment bank 
+in New Zealand. The bank is called the ‘New Zealand Green Investment Finance’. The purpose of 
+the bank is to accelerate investment that reduce greenhouse gas emissions in New Zealand. 
+Meanwhile, the OECD defines a green investment bank as a public, quasi-public or non-profit 
+entity established specifically to facilitate private investment into domestic low-carbon, climate
+resilient infrastructure. NZGIF (2019) shows that the aim of the New Zealand Green Investment 
+Fund is to use private finance to rapidly scale up emissions reduction, and investment in clean 
+and innovative technologies and companies. RIAA (2019) shows that green financing prospects 
+are already underway in New Zealand due to the establishment of a green investment fund, and 
+the creation of green bonds. 
+In Australia, Geddes et al (2018) identify the significant financing gap affecting the large-scale 
+deployment of low-carbon technologies. They suggest that State investment banks can play a key 
+role in closing the finance gap by encouraging private investment into low-carbon investments. 
+They suggest that State investment banks can enable financial sector learning, create trust for 
+green projects, and take a first-mover or early-mover role in offering green financing options. 
+Subsequently, Geddes et al (2020) analyse the parliamentary debate about the establishment 
+and design of Australia's Clean Energy Finance Corporation, which is equivalent to the UK’s green 
+investment bank. They find that the political controversy in Australia was partisan on all debate 
+topics. Debates on higher-level establishment concepts especially the role of the State in the 
+establishment received more attention in Australia. 
+17 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+4.6. Green finance developments in the G20 countries 
+Table 1 below shows the trend in green finance developments among the G20 countries from 
+2016 to 2017. China, United Kingdom and Mexico have the largest achievements in green 
+financing, followed by Turkey, South Africa, Brazil, France and India. The green finance 
+developments are broadly categorized into: (i) support for the development of local green bond 
+markets; (ii) promoting international collaboration for cross-border investment in green bonds, 
+and (iii) improving the measurement of green finance activities and their impacts.  
+Table 1: Green finance developments in the G20 countries 
+G20 Member 
+Countries 
+Support for the 
+development 
+of local green bond 
+markets 
+Promoting international 
+collaboration for cross
+border investment in green 
+bonds 
+Argentina 
+Improving the 
+measurement 
+of green finance activities 
+and their impact 
+Australia 
+* 
+*   
+*   
+Brazil 
+Canada 
+*  
+* 
+*  
+China 
+* 
+* 
+France 
+* 
+*  
+* 
+Germany 
+India 
+*   
+* 
+Indonesia 
+*  
+Italy 
+*   
+*   
+Japan 
+Mexico 
+*   
+* 
+Russia 
+* 
+*   
+* 
+Saudi Arabia    
+South Africa 
+* 
+*  
+South Korea 
+Turkey 
+*   
+*  
+UK 
+* 
+* 
+* 
+US 
+* 
+EU 
+*   
+(N/A) 
+International 
+*  
+*  
+Source: UNEP (2017) United Nations Environment Progress (2017) report, p.14 
+* 
+18 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+4.7. Differences in green finance terminology across continents 
+The terminology used to describe green finance may vary across different countries and 
+continents because of the different ways in which policy makers and practitioners interpret green 
+finance both in a national context or cross-border context. In the end, country-specific green 
+finance terminologies will converge into a common continental terminology that allows for 
+continental comparison of green finance terminologies. Table 2 below shows some of the 
+common green finance terminologies used in some continents. 
+Continent 
+Table 2: Specific terminologies for green finance in continents 
+Common terminologies for green finance 
+North America Green financial assets; green investment; sustainable finance; green funds; green 
+bonds. 
+South America Green bank; green bonds; green sovereign bonds. 
+Africa 
+Oceania 
+Green Sukuk; climate finance; green bonds; green climate fund. 
+Sustainable finance; green loans; green bonds 
+Asia 
+Europe 
+Sustainable finance; green loans, green bonds, green investment 
+Green bond; sustainable finance; climate finance; green investment; climate 
+awareness bond. 
+5. Some gaps and areas for further research 
+In this section, some directions for further research are suggested. 
+5.1. More research on green innovations and risk-return tradeoff 
+Green innovations will be essential in addressing the complex environmental and sustainability 
+challenges of green financing. There is a need to examine how green innovation can contribute 
+to expanding green financing and investment options. Green entrepreneurs can also play an 
+important role in identifying green opportunities for profitable investments. Future studies 
+should examine how green innovation and entrepreneurs can contribute towards expanding 
+green investment and funding options. Also, future studies can empirically examine the link 
+between green finance and green innovation. Innovation in green financing and investment 
+19 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+comes with risks, and the higher the risk, the higher the return. Currently, there is a scant 
+literature on the tradeoff between risk and expected return in green financing and investment. 
+Future studies should also assess, in greater depth, the tradeoff between green risk and expected 
+green return. 
+5.2. Causality between green investment and environmental change 
+There is need for more research studies that explore the causality between green investment 
+and environmental change. There are many questions to be asked in this area: for instance, does 
+environmental change create the need for green investment? Or, does green investment lead to 
+environmental change? Can a one-time investment in green project lead to a significant change 
+in environmental outcomes? Is there a direct or indirect causation between green investment 
+and environmental outcome? Can institutional weakness affect the potential for green 
+investment to make a positive change in environmental outcomes? Can government support, or 
+the lack of it, affect the causality between green investment and environmental outcomes? What 
+is the best approach to estimate the causality between green investment and environmental 
+change? Future research can shed some light on these issues.  
+5.3. Identifying the boundaries of private and public sector involvement  
+Future studies should identify the boundaries of private sector and public sector participation in 
+green financing. Presently, there is little research in the literature about the limits of private 
+sector participation and public sector participation in green financing. There is a need to identify 
+the limit of private sector participation and the limit of public sector participation in green 
+financing. Excessive citizen involvement in green financing may lead to environment policies 
+being dominated by divergent private interests. Similarly, involvement by many companies may 
+lead to agency conflicts as companies will have to choose the extent to which they want to pursue 
+green interests while pursuing their core profitability objectives. Public sector agents will also 
+have to determine how much fiscal resources will be committed to the green economy. In sum, 
+there has to be a defined limit for private and public sector involvement since the private sector 
+20 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+and the public sector are not perfect substitutes or complements. Future studies should suggest 
+ideas on how to set the boundaries of private and public sector involvement in green financing. 
+5.4. Synergy between green finance, social finance and digital finance 
+Research on green finance, social finance and digital finance is growing rapidly. Nonetheless, the 
+three concepts ‘green finance’, ‘digital finance’ and ‘social finance’ should not be seen as 
+separate concepts. Ozili (2021a) presents a conceptual relationship between green finance, 
+digital finance, and social finance. Future studies should explore, in greater depth, the link or 
+interrelationship between green, digital and social finance. Furthermore, future studies can 
+identify other synergistic benefits of combining green, digital and social finance for a sustainable 
+environment and society. There are potential synergistic benefits to be gained from using them 
+as complements for achieving the sustainable development goals. 
+5.5. Effect of regulation on green businesses, innovation and activities 
+Regulation often impose extra burden on pro-green companies and financial institutions through 
+high cost of compliance with green regulations. Green corporations and entrepreneurs may 
+receive rewards for complying with green regulations and may receive penalties for non
+compliance with green regulations. Excess green regulation can discourage green innovation and 
+ultimately reduce the size of pro-green activities. Therefore, there is a need to explore the 
+optimal level of regulation needed to support green businesses and encourage green innovation. 
+Future studies should find the right balance between imposing green regulation and encouraging 
+green innovation, while at the same time, promoting effective regulation. 
+5.6. More research on green finance opportunity in developing countries  
+Future studies can explore the green finance opportunity in developing countries. Future studies 
+can also explore how the challenging policy and institutional environments affect the 
+development of green finance and investment markets in developing countries. Such studies 
+should take into account the unique institutional and policy barriers that exist in developing 
+countries. 
+21 
+Peterson K. Ozili                                            
+Green finance research around the world: a review of literature 
+5.7. More research about the usefulness of mainstream tools of financial analysis in assessing 
+the viability of green projects and investment opportunities 
+Future studies can assess the usefulness of mainstream tools of financial analysis in assessing 
+whether proposed green projects are viable in terms of profitability and sustainability. There are 
+two schools of thought on this. One perspective argues that a new set of tools should be 
+developed and used to assess green financing and green investment opportunities. The second 
+perspective argues that existing mainstream tools of financial analysis can be used to evaluate 
+green financing and investment opportunities. The latter perspective seems more plausible even 
+though there is yet no evidence to show that adapting existing mainstream financial analysis tools 
+will be more effective in assessing green financing investment and opportunities. 
+6. Conclusion 
+This paper presented a literature review of green finance research and identified some fruitful 
+areas for future research. The findings show that green finance has the potential to make a 
+significant difference in the environment and society but many challenges abound such as the 
+lack of awareness, inconsistent definitions, lack of policy coordination, inconsistent policies, and 
+lack of incentives to investors and financial institutions, among others. Some suggested areas for 
+further research include: the need for more research on green innovation and risk-return 
+tradeoff; two, the need to explore the causality between green investment and environmental 
+change; three, the need to identify the boundaries of private and public sector involvement in 
+green financing; four, the need to examine the synergy between green finance, social finance 
+and digital finance; five, the need to investigate the effect of regulation on green businesses and 
+activities; six, the need to explore the green finance opportunity in developing countries, and 
+finally, more research is needed to explore the usefulness of mainstream tools of financial 
+analysis in assessing the viability of green projects and investment opportunities. This study has 
+one limitation.
+
+BACKGROUND PAPER
+ Sustainable Finance: 
+A Primer and Recent 
+Developments
+ Alex Nicholls
+ DISCLAIMER
+ This background paper was prepared for the report Asian Development Outlook 2021: Financing a Green and 
+Inclusive Recovery. It is made available here to communicate the results of the underlying research work with 
+the least possible delay. The manuscript of this paper therefore has not been prepared in accordance with the 
+procedures appropriate to formally-edited texts.
+ The findings, interpretations, and conclusions expressed in this paper do not necessarily reflect the views of the 
+Asian Development Bank (ADB), its Board of Governors, or the governments they represent. ADB does not 
+guarantee the accuracy of the data included in this document and accepts no responsibility for any consequence 
+of their use. The mention of specific companies or products of manufacturers does not imply that they are 
+endorsed or recommended by ADB in preference to others of a similar nature that are not mentioned.
+ Any designation of or reference to a particular territory or geographic area, or use of the term “country” in 
+this document, is not intended to make any judgments as to the legal or other status of any territory or area. 
+Boundaries, colors, denominations, and other information shown on any map in this document do not imply any 
+judgment on the part of the ADB concerning the legal status of any territory or the endorsement or acceptance 
+of such boundaries.
+Sustainable Finance: A Primer and Recent Developments 
+Professor Alex Nicholls, MBA 
+I. INTRODUCTION TO SUSTAINABLE FINANCE 
+A. 
+Historical Context 
+The development of innovative finance tools and instruments to address social and environmental 
+problems is nothing new. Historically, such finance has focused on concessionary finance, 
+including grants, and mutual finance to support the “social economy” or “social and solidarity 
+economy”. In many countries, the social economy has long played an important role in the 
+provision of nonmarket goods and services outside of government or mainstream markets. For 
+example, the cooperative and mutual sector represents an important element of many economies 
+globally, employing more than 1.2 billion people (one in six of all employees) in more than three 
+million organizations. In 2019, the largest 300 cooperatives had a turnover of more than $2 
+trillion,1 of which 41 were in Asia.2 The key sectors in which cooperatives and mutual 
+organizations operate are work integration, agriculture, microfinance, and consumer groups. Most 
+cooperatives and mutual organizations are small, but a number operate at significant scale. For 
+example, Amul Dairy is the largest dairy producer in India.3 Moreover, the larger social economy 
+in the European Union (EU)4 represents an important element of the overall economy, both in 
+terms of its economic impact (13.6 million jobs, 8% of gross domestic product across the EU),5 
+but also its wider social impact in terms of innovations designed to address intractable social, 
+community, and environmental issues.6 In the post–COVID-19 world, the social economy also 
+offers an alternative economic model that connects actors from government, not-for-profit, and 
+for-profit organizations; and may provide important insights into how to increase the resilience 
+and heterogeneity of business ecosystems more generally and to reduce the risk of exogenous 
+shocks to the economy as a whole.  
+1 https://bccm.coop/what-is-a-co-operative/co-operatives-and-mutuals-around-the-world/. 
+2 https://monitor.coop/sites/default/files/publication-files/wcm2019-final-1671449250.pdf. 
+3 http://www.amuldairy.com. 
+4 The social economy in the EU consists of 2.8 million social enterprises, mutual and cooperative associations and foundations. 
+https://s3platform.jrc.ec.europa.eu/documents/20182/313344/SEE-Action+Plan+for+Social+Economy.pdf. 
+5 https://s3platform.jrc.ec.europa.eu/documents/20182/313344/SEE-Action+Plan+for+Social+Economy.pdf. 
+6 DG CLIMA Climate and DG ENVIR Environment; DG EAC Education, Youth, Sport and Culture; DG SANTI Health and Food Safety; DG 
+ENER Energy; DG FISMA Financial Stability, Financial Services and Capital Markets Union, and DG ECFIN Economics and Financial 
+Affairs; DG CONNECT Communications Content, Networks, and Technology; and DG RTD Research and Innovation. 
+1 
+B. 
+Terminology 
+Despite the long history - and continued growth -of the social economy globally, it is only 
+relatively recently that a market of finance specifically aimed at creating social and environmental 
+impact, as well as a financial return, has emerged. However, today, this market remains somewhat 
+confused and under-institutionalized - lacking a consistent terminology, consolidated financial or 
+impact performance data sets despite a plethora of competing reporting standards and principles 
+(for example, the UN Principles for Responsible Investment [PRI],7 the Global Reporting Initiative 
+[GRI],8 and the Social Accounting Standards Board [SASB].9
+ ))
+ ) and limited regulation around 
+disclosure (though see recent EU and UK regulatory models).10 Variously, the finance that is 
+deployed for social and environmental impacts has been categorized as grants (philanthropic 
+finance);11 venture philanthropy (long-term start-up grants plus other pro bono support);12 mission 
+and program-related finance (charitable asset finance);13 development finance (from transnational 
+development finance institutions [DFIs]);14 ethical finance (that is based upon moral judgements 
+of performance, often linked to faith systems);15 social (impact) finance (that supports the social 
+economy more widely, particularly in Europe);16 green finance (that is focused on the climate 
+crisis and associated issues of pollution);17 and impact finance (that is focused specifically on 
+measurable impact). Table 1 summarizes these types of finance with example organizations. 
+7 https://www.unpri.org/pri/what-are-the-principles-for-responsible-investment. 
+8 https://www.globalreporting.org. 
+9 https://www.sasb.org. 
+10 https://ec.europa.eu/info/business-economy-euro/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en; 
+https://www.gov.uk/government/news/uk-to-enshrine-mandatory-climate-disclosures-for-largest-companies-in-law 
+11 https://www.philanthropy-impact.org. 
+12 https://www.ubs.com/global/en/ubs-society/philanthropy/ubs-optimus
+foundation.html?ef_id=Cj0KCQjwufn8BRCwARIsAKzP696fi6DAC5FUYCvMBO0NEQtdNFanJ0fwAgCLk1HEYaj8NCgkDOZJevEaAgB
+ AEALw_wcB:G:s&s_kwcid=AL!410!3!476250982510!b!!g!!%2Bphilanthropy. 
+13 https://web.cof.org/2013fall/docs/resources/Impact-Investing-Basics.pdf. 
+14 https://www.adb.org. 
+15 https://www.globalethicalfinance.org. 
+16 https://www.goodfinance.org.uk/investors-advisors/social-finance; and 
+https://www.reedsmith.com/en/capabilities/services/finance/social-impact-finance. 
+17 https://www.greenfinanceinstitute.co.uk and https://greenfinanceplatform.org. 
+2 
+Table 1: Terminologies for Sustainable Finance 
+Type of Finance 
+Example Organization 
+Grants 
+Venture Philanthropy 
+Rockefeller Foundation 
+New Philanthropy Capital 
+Program-related investment 
+Mission-related investment 
+Ford Foundation 
+KL Felicitas Foundation 
+Development finance 
+Ethical finance 
+Centers for Disease Control and Prevention 
+Faith Invest 
+Social (impact) finance 
+Green finance 
+RBC Wealth Management 
+Resonance Fund 
+Impact finance 
+Socially responsible finance 
+Bridges Fund Management 
+Nutmeg 
+Source: Author’s own research. 
+Despite this variety of definitions, some consistency of terminology has coalesced around the 
+construct of “sustainable finance” in terms of a range of environmental, social, and governance 
+(ESG) variables that are material in terms of investor decision-making around asset allocation 
+strategies: 
+Sustainable finance generally refers to the process of taking due account 
+of environmental, social, and governance (ESG) considerations when making 
+investment decisions in the financial sector, leading to increased longer-term 
+investments into sustainable economic activities and projects.18 
+The market for sustainable finance can be divided into two subcategories: negative sustainable 
+finance that is characterized by investments screened according to their material risk profile on the 
+three ESG dimensions (“do no harm”);19 and positive sustainable finance that is characterized by 
+investments identified according to their potential for significant, additional, social, or 
+environmental impact20 often aligned with the United Nations (UN) Sustainable Development 
+Goals (SDGs).21 For example, whereas the former would screen out tobacco companies or high 
+18 https://ec.europa.eu/info/business-economy-euro/banking-and-finance/sustainable-finance/overview-sustainable-finance_en. 
+19 This is categorized as an exclusion strategy. https://www.credit-suisse.com/media/assets/asset-management/docs/ch/investment-themes/cs
+impact-1-esg-to-the-sdgs-2020-spread.pdf. 
+20 This is categorized as an integration strategy. https://www.credit-suisse.com/media/assets/asset-management/docs/ch/investment-themes/cs
+impact-1-esg-to-the-sdgs-2020-spread.pdf and https://www.credit-suisse.com/media/assets/microsite/docs/responsibleinvesting/the-double
+delta-of-impact-investing.pdf. 
+21 https://sdgs.un.org/goals. 
+3 
+carbon intensity companies from a portfolio, the latter would invest directly into health care 
+innovations to address lung disease or green technology to replace petro-chemicals.22  
+C. 
+Investor Preferences 
+A key driver behind the emergence of sustainable finance has been changing investor 
+preferences, notably from the millennials who will benefit from the largest transfer of inherited 
+wealth in human history over the two decades,23 accounting for $68 trillion.  Of these 
+millennials, 45% stated that they wished to invest their funds to help others and considered social 
+responsibility a key factor in making investment decisions.24 Moreover, 90% of women investors 
+also believe making a positive impact on society is important. In addition, institutional investors, 
+such as pension funds and insurance firms, are recalibrating their long-term investment risk 
+models to include social governance and, particularly, environmental factors as material for their 
+investment portfolios.25  
+II. SUSTAINABLE FINANCE INVESTMENT STRATEGIES 
+Sustainable finance investment strategies are either negative/exclusionary or positive/integrated. 
+A. Negative (Exclusionary) Sustainable Finance 
+This category is typically risk screened against a range of non-financial performance 
+metrics across ESG categories, that leads to a recalibration of the long-term risk profiles of, for 
+example, high-carbon intensity companies. Strategically, such screening results in divestment 
+from, or the avoidance of, ESG high risk investments. The most common risk screen is high 
+carbon intensity, but other risks include failures in: 
+• Internal organizational structures, practices, and processes, such as effective internal 
+accountability and transparent governance; strong worker relations; fair pay and safe 
+working conditions; clear strategies to improve the inclusivity and diversity of the 
+22 https://www.rbcwealthmanagement.com/gb/en/research-insights/the-growth-of-impact-investing-building-wealth-with-positive
+outcomes/detail/?gclid=Cj0KCQjw5eX7BRDQARIsAMhYLP8jHs3GyRFi-Cy6Lq6cNqVCbEjALIDvJ745GkaWjl
+U7T0979Kdjz0aAj43EALw_wcB. 
+23 According to Forbes, Millennials will inherit over $68 trillion from their Baby Boomer parents by the year 2030. 
+https://www.forbes.com/sites/jackkelly/2019/10/26/millennials-will-become-richest-generation-in-american-history-as-baby-boomers-transfer
+over-their-wealth/#3dcc954b6c4b. 
+24 https://privatebank.jpmorgan.com/gl/en/services/investing/sustainable-investing/impact-investing. 
+25 https://www.institutionalassetmanager.co.uk/2020/05/19/285756/esg-will-be-industry-standard-within-five-years-say-institutional-investors. 
+4 
+workforce; committed investment in human capital and local communities; using 
+recycling models to maximize the effective use of resources 
+• External organizational effects and outcomes, such as respect for human rights and 
+strategies to tackle inequality; and minimizing pollution 
+An extension of passive screening that developed more recently is the more active use of voting 
+rights to challenge corporate behaviour.26  
+B. Positive (Integrated) Sustainable Finance 
+This category typically aims to achieve a ‘Double Delta’27 of impact by providing both 
+new, additional, capital and by focussing on high potential start-ups or high growth potential 
+impact companies. Positive sustainable finance is often aligned with making an additional 
+contribution towards one or more of the 17 UN SDGs (Figure 1). This is sometimes called 
+Socially Responsible Investment.
+ 28 F
+ 28 To date, the main categories for SDG investing have 
+been SDG 8 (decent work and economic growth), 12 (responsible consumption and 
+production), and 13 (climate action) with the least prioritized SDGs including 1 (no poverty), 
+2 (zero hunger), and 10 (reduced inequalities).
+ 2 9F
+ 29 Growing this market is of central 
+importance to the achievement of the SDG targets by 2030, since there is currently an 
+estimated annual shortfall of $3 trillion–$4 trillion in available finance.
+ 30 Positive sustainable 
+finance investment strategies focus on providing new capital into high impact companies. 
+3 0F
+ 26 https://www.aberdeenstandard.com/en/uk/adviser/responsible
+investing?gclid=Cj0KCQjwlvT8BRDeARIsAACRFiViyk2kUXQvp8PJWbmjhM53W_3bf20y88JkY2RMUbz8R7pTGU8idoAaAsdjEALw_
+ wcB. 
+27 https://www.credit-suisse.com/media/assets/microsite/docs/responsibleinvesting/the-double-delta-of-impact-investing.pdf 
+28 https://hbr.org/2019/01/the-state-of-socially-responsible-investing. 
+29 https://pwc.blogs.com/sustainability/2018/01/sdg-prioritisation-is-business-on-the-right-track.html. 
+30 https://www.sustainablegoals.org.uk/filling-the-finance-gap/. 
+5 
+Figure 1: United Nations Sustainable Development Goals 
+Source: United Nations. https://sdgs.un.org/goals. 
+III. SUSTAINABLE FINANCE CATEGORIES 
+A. Environmental (Green) Finance  
+In terms of ESG categories, environmental finance is more commonly described as ‘green 
+finance’. Green finance provides start-up or growth capital into innovative enterprises that address 
+climate related issues (positive/integrated) or divests from companies that perpetuate the climate 
+crisis (negative/exclusionary). 
+Negative - exclusionary - green finance typically focuses on moving investments from high carbon 
+intensity to low carbon intensity companies (as divestment) or allocating capital to companies that 
+are aiming to reduce their overall carbon footprint. A particular issue here is the long-term risk 
+profile associated with investments in petrochemicals companies has been categorised as reflecting 
+the mispriced balance sheet value of so-called ‘stranded assets.’ These are future extractions of 
+existing oil and gas deposits that will not be able to be used without precipitating a total climate 
+collapse. Carbontracker has estimated that this will result in the price of oil dropping below the 
+6 
+marginal price of production by 2050, making it unviable and significantly downgrading the value 
+of petrochemical stocks today.31 
+Positive – integrated- green finance typically invests in companies that provide green technology, 
+such as solar or carbon capture technologies to address the climate crisis. Green investments also 
+focus on companies working on environmentally sustainable management of natural resources, 
+biodiversity conservation, renewable energy, energy efficiency, the circular economy, clean 
+transportation, and pollution prevention and control.32 The positive green finance market is 
+dominated by debt products, notably green bonds.33  Broadly speaking there are six forms of green 
+bond:34 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Corporate bonds issued by a corporate entity to finance asset acquisitions 
+Project bonds backed by single or multiple projects for which the investor has direct 
+exposure to the risk of the project 
+Asset-backed securities collateralized by one or more specific projects, usually 
+providing recourse only to the assets 
+Supranational, sovereign, sub-sovereign, or agency bonds issued by international 
+financial institutions such as the World Bank or the European Investment Bank 
+(EIB) 
+Municipal bonds issued by a municipal government, region, or city, which also 
+includes sovereign bonds 
+Finance sector bonds issued by a financial institution to raise capital to finance on
+balance-sheet lending (such as loans) to green activities 
+Some carbon-intensive or high-polluting companies have raised green “transition” bonds to fund 
+decarbonizing projects. For example, in 2020, Cadent Gas, a British firm, raised a €500 million 
+green bond to fund works on reducing the leakages from its pipelines. In 2019, Enel, an Italian 
+electricity firm, issued a green bond index that is linked to increasing the share of renewables in 
+its generation capacity.35 Related to this form of green finance has been the move towards 
+divestment from carbon-intensive companies.36
+ 31 https://carbontracker.org/can-you-see-stranded-assets-through-the-smog/ 
+32 https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/June-2019/Mapping-SDGs-to-Green-Social-and-Sustainability
+Bonds06-2019-100619.pdf. 
+33 Though equity issues in green technology companies are also used. https://www.nasdaq.com/solutions/green-equity-indexes. 
+34 https://www.oecd.org/environment/cc/Green%20bonds%20PP%20%5Bf3%5D%20%5Blr%5D.pdf. 
+35 https://www.economist.com/finance-and-economics/2020/09/19/what-is-the-point-of-green-bonds. 
+36 https://carbontracker.org. 
+7 
+Green bonds provide new flows of debt capital to support start-ups or high-growth green energy 
+technologies, water management models, meat analogues, or carbon capture.37 More recently, 
+there has been a growing interest in blue bonds and blended finance models that are focused on 
+the “ocean economy” and issues of biodiversity and marine sustainability.38 Overall ‘sustainable’ 
+debt issuance (including green bonds) reached $732 billion in 2020 – a 23% increase compared 
+to the year before (see Figure 2).39  
+Figure 2: Sustainable Debt Issuance 2013-2020 
+.  
+Source: Sustainalytics (2021) 
+B. Social (Impact Investment) Finance 
+Second, social finance provides start-up or growth capital into innovative enterprises that address 
+a social market failure in the provision of welfare in sectors such as health, education, and 
+employment (positive/integrated) or divests from companies that increase inequality of perpetuate 
+social welfare failures (negative/exclusionary). As a result, finance deployed intentionally for 
+social impact is sui generis positive social finance. In this context, over the past 20 years, a new 
+model of positive social finance has emerged: impact investment. The Global Impact Investing 
+37 https://www.economist.com/finance-and-economics/2020/09/19/what-is-the-point-of-green-bonds. 
+38  https://www.oecd-ilibrary.org/environment/reframing-financing-and-investment-for-a-sustainable-ocean-economy_c59ce972-en and 
+https://www.weforum.org/agenda/2019/06/world-oceans-day-blue-bonds-can-help-guarantee-the-oceans-wealth/. With support from the World 
+Bank, in 2018, the Republic of Seychelles launched the world’s first sovereign Blue Bond raising a total of $15 million to advance the island’s 
+blue economy.  
+39 https://connect.sustainalytics.com/ebook-how-sustainable-finance-shaping-banking 
+8 
+Network (GIIN),40 a not-for-profit organization dedicated to building the infrastructure of the field 
+via convening and research, defined impact investment as: 
+Impact investments are investments made with the intention to generate positive, 
+measurable social and environmental impact alongside a financial return. 
+More recently, the Global Steering Group for Impact Investment (GSGII),41 a transnational 
+coalition of 33 national advisory boards that supports the development of the impact investing field 
+globally, has extended this definition: 
+Impact investment optimizes risk return and impact to benefit people and the planet. 
+It does so by setting specific social and environmental objectives alongside financial 
+ones and measuring their achievement. 
+The emphasis in both definitions on measurement as an integral element of the impact investment 
+model further confirms it as positive social finance that deploys capital to address social issues 
+directly.  
+A more recent innovation in social finance has been the emergence of social bonds. Social bonds 
+are any type of bond where the proceeds will be used exclusively to finance (or refinance) projects 
+focused on water infrastructure, health or education sectors, affordable housing, work integration, 
+food security, and access to services. Social bonds are designed directly to address or mitigate a 
+specific social or environmental issue often involving a particular target population. In 2020, the 
+International Capital Market Association (ICMA) published a set of Social Bond Principles,42 with 
+four core components to be calibrated to the stated social or environmental purpose of the bond: 
+the use of finance, the processes for project evaluation, the management of finance, and the 
+reporting impact. 
+40 Established in 2009, the Global Impact Investing Network (GIIN) is a not-for-profit organization with 280 members across 41 countries that 
+builds industrial infrastructure and supports activities, education, and research to help accelerate the development of the impact investment 
+industry. https://thegiin.org. 
+41 The GSGII was established in August 2015 as the successor to, and incorporating the work of, the Social Impact Investment Taskforce 
+established under the UK presidency of the Group of Eight (G8). Currently, the GSGII’s membership consists of 32 countries plus the EU. 
+https://gsgii.org. 
+42 https://www.icmagroup.org/green-social-and-sustainability-bonds/social-bond-principles-sbp/. 
+9 
+C. Governance (Stakeholder) Finance 
+Third, governance finance - which is sometimes elided with environmental or social finance -is 
+distinctive in that it focuses on stakeholder finance that invests in companies that adhere to 
+international standards of employee welfare (such as those set by the International Labour 
+Organization),43 or  that have a strategic aim to incorporate elements of purpose44 into their 
+governance structures for example, by establishing employee representation on the management 
+board (positive/integrated) or divests from those that do not (negative/exclusionary). 
+Governance finance relates to the effects of investment on a range of key stakeholders around the 
+firm. In this regard, it has many overlaps with the impact objectives of green and social finance, 
+both negative and positive. These also link to issues around stakeholder finance that have been 
+conceptualized in terms of a wider set of debates around corporate “purpose”.45 However, the most 
+distinctive features of positive stakeholder finance relate to organizational ownership and forms of 
+legal incorporation. 
+In terms of stakeholder ownership, cooperative and mutual finance represent a significant driver 
+of stakeholder impact.46 This is a product of investment into an organizational structure, based 
+upon equal membership, that is designed to address market failures or pattern of monopsony in 
+markets. Cooperatives and mutual organizations play a key role in several impact sectors, 
+including housing,47 agriculture,48 health,49 work integration,50 insurance,51 and banking.52 Many 
+of these sectors are substantial. For example, the global market share of mutual and cooperative 
+insurers stood at 26.7% (2017), in more than 90 countries, with assets worth $8.9 trillion. This 
+market employs more than 1 million people and serves 960 million people as members or 
+43 https://www.ilo.org/global/lang--en/index.htm. 
+44 https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/files/Mayer_2.19.19.transcript.pdf. An good example is the B-Corps model: 
+https://bcorporation.net. 
+45 https://boardagenda.com/2020/04/07/no-more-business-as-usual-professor-colin-mayer-said-business-school/. 
+46 Michie (2015). 
+47 https://ldn.coop/wp-content/uploads/2015/01/Financing_Co-operative_and_Mutual_Housing-1.pdf. Also, note Big Society Capital’s strategic 
+focus on investing in the social housing sector and housing associations: https://bigsocietycapital.com/how-we-work/focus-areas/homes/. 
+48 https://www.agweb.com/blog/straight-from-dc-agricultural-perspectives/agricultural-cooperatives-around-the-world. 
+49 https://www.un.org/development/desa/cooperatives/wp-content/uploads/sites/25/2019/03/190326_ihco_EGM-nairobi.pdf. 
+50 https://www.eurofound.europa.eu/publications/report/2019/cooperatives-and-social-enterprises-work-and-employment-in-selected-countries. 
+51 https://www.thenews.coop/136824/sector/banking-and-insurance/co-operative-mutual-insurers-outperform-insurance-sector-market-share
+growth/. 
+52 https://economics.rabobank.com/contentassets/95274037ebc548bc99ae02abadf18489/cooperatiestudie-200910_tcm64-94102.pdf. 
+10 
+policyholders.53 Similarly, the global cooperative banking sector had assets of €7.4 billion 
+(2018).54 
+In terms of stakeholder forms of incorporation, several legal forms for social purpose organizations 
+exists globally that are designed to attract stakeholder focused finance. These include benefit 
+corporations (in the United States [US]),55 community interest companies (in the United Kingdom 
+[UK]),56 and social cooperatives in Europe.57 Each of these legal forms of incorporation have 
+various disclosure and financial requirements that are consistent with being a legitimate social 
+purpose organization. For example, community interest companies have an asset lock provisions 
+which protects them from a hostile takeover to access the value of a real asset such as property.58
+ Figure 3 summarise the categories of sustainable finance as a taxonomy by ESG category and 
+investment approach with indicative investee profiles and investment strategies. 
+Figure 3: 
+53 https://www.icmif.org/publications/financial-insights/global-mutual-and-cooperative-market-infographic-2016. 
+54 McKillop et al. (2020). 
+55 https://benefitcorp.net. 
+56 https://www.gov.uk/government/organisations/office-of-the-regulator-of-community-interest-companies. 
+57 https://ec.europa.eu/growth/sectors/social-economy/cooperatives/european-cooperative-society_en. 
+58 In terms of attracting stakeholder finance, community interest companies also attract social investment tax relief 
+https://www.gov.uk/guidance/venture-capital-schemes-apply-to-use-social-investment-tax-relief. 
+11 
+IV THE SPECTRUM OF SUSTAINABLE FINANCE: MARKET SIZE 
+An important and distinctive feature of the sustainable finance market is the variety of types of 
+capital available to be deployed (and co-invested in blended structures) for sustainable impact. 
+These range from grants, foundation assets deployed as program-related investment (PRI) or 
+mission-related investment (MRI), sub-market and market return impact investments, 
+development finance, green and social bonds, and market rate return screened investments in 
+public and private equity and debt. Figure 4 sets out the spectrum of sustainable finance in terms 
+of both the broad positive/integrated and negative/exclusionary ESG categories set out above.59 
+Figure 3. The Spectrum of Sustainable Finance 
+Figure 4: The Spectrum of Sustainable Finance 
+ESG = environmental, social, and governance. 
+Source: Author’s own research. 
+Next, each element of the spectrum is considered, in turn, with respect to the approximate market 
+size of each. 
+A. 
+Grants 
+Positive/Integrated Environmental, Social, and Governance Finance: Market Size 
+1. 
+Grants, which play an important role in structuring blended sustainable finance deals as 
+concessionary capital have an expected return of -100% as they are never repaid. The market size 
+figure - $75 billion - is approximated from 5% of total foundation assets globally. This is the legal 
+59 See: https://www.bloomberg.com/graphics/2019-green-finance/. 
+12 
+requirement for charitable status in the US, though not elsewhere.60 This figure also excludes 
+government grants to social enterprises, although these may be quite substantial sums. For 
+example, the Government of the UK has deployed in excess of £1 billion of public money to 
+support the development of the social enterprise sector and impact investing infrastructure since 
+2010.61  
+2. 
+Program-Related Investment and Mission-Related Investment 
+PRI and MRI form a part of a foundation’s overall invested assets by using endowment capital to 
+generate impact. PRIs typically take the form of debt capital to fund programmatic activities, often 
+in concert with grants, and may make a financial return.62 In the US, PRIs can be included in the 
+annual 5% allocation of “grant” capital. 63 MRIs take the form of debt or equity and typically aim 
+to further the foundation’s mission and make a competitive financial return.64 Potentially, the 
+potential market size of MRI investments could equal the total assets of all foundations, or roughly 
+$1.5 trillion globally.65  
+3. 
+Impact Investing  
+Following the definition noted above, in the 2020 annual report, the GIIN estimated the core 
+impact investing market size at $715 billion of assets under management in 2020.66 However, the 
+60 Calculating the total value of philanthropic assets globally is difficult, since there is no single data set available. This figure is, therefore, an 
+estimate based upon P. Johnson. 2018. Global Philanthropy Report (Hauser Institute for Civil Society) valuation of global foundation assets at 
+$1.5 trillion, see https://cpl.hks.harvard.edu/files/cpl/files/global_philanthropy_report_final_april_2018.pdf.  This is likely to a larger figure in 
+2020. 
+61 This figure includes: the endowment of UnLtd (£100 million); grants from the Futurebuilders (£215 million) and Investment and Contract 
+Readiness (£60 million) Funds; co-investments with Bridges Fund Management (>£20 million); unclaimed bank account assets to the Reclaim 
+Fund (> £ 850 million) of which Big Society Capital has deployed > £600 million to 2019. 
+62 In the USA, the IRS defines PRIs ‘as investments in which: the primary purpose is to accomplish one or more of the foundation's exempt 
+purposes; production of income or appreciation of property is not a significant purpose; influencing legislation or taking part in political 
+campaigns on behalf of candidates is not a purpose. In determining whether a significant purpose of an investment is the production of income or 
+the appreciation of property, it is relevant whether investors who engage in investments only for profit would be likely to make the investment on 
+the same terms as the private foundation. If an investment incidentally produces significant income or capital appreciation, this is not, in the 
+absence of other factors, conclusive evidence that a significant purpose is the production of income or the appreciation of property. To be 
+program-related, the investments must significantly further the foundation's exempt activities.  They must be investments that would not have 
+been made except for their relationship to the exempt purposes. Examples include: low-interest or interest-free loans to needy students; high-risk 
+investments in non-profit low-income housing projects,; low-interest loans to small businesses owned by members of economically 
+disadvantaged groups, where commercial funds at reasonable interest rates are not readily available; investments in businesses in low-income 
+areas (both domestic and foreign) under a plan to improve the economy of the area by providing employment or training for unemployed 
+residents; investments in non-profit organizations combating community deterioration. See: https://www.irs.gov/charities-non-profits/private
+foundations/program-related-investments. 
+63 Government of the UK guidelines. https://www.gov.uk/government/publications/charities-and-investment-matters-a-guide-for-trustees
+cc14/charities-and-investment-matters-a-guide-for-trustees. 
+64 R. Henriques, A. Nath, C. Cote-Ackah, and K. Rosqueta. 2016. Programme Related Investments: Is there a Bigger Opportunity for Mission 
+Investing by Private Foundations? The Centre for High Impact Philanthropy, University of Pennsylvania. https://www.impact.upenn.edu/wp
+content/uploads/2016/04/160415PRIFINALAH-print.pdf. 
+65 For pioneers in using MRI as 100% of assets: KL Felicitas Foundation (https://klfelicitasfoundation.org); FB Heron Foundation 
+(https://www.heron.org); T100 (https://toniic.com/t100/); and the Ford Foundation’s decision to engage in MRI 
+(https://www.marketplace.org/2020/07/02/ford-foundation-darren-walker-charitable-organizations-philanthropy-economy-social-bonds/). 
+66 https://thegiin.org/research/publication/impinv-survey-2020. 
+13 
+survey data will, likely, under-estimate the total market size as it is based on a sample of only 290 
+respondents. Of these assets, 37% was invested through private debt, which also accounted for 
+well more than half (61%) of the number of investments made. Publicly traded debt accounted for 
+nearly a quarter of the total volume of capital invested (16% of transactions), and private equity 
+comprised 16% (11% of transactions). The overall average deal size was relatively small - at $5 
+million - across all asset classes. 76% of investments were directly into companies, projects, or 
+real assets. By asset class, the average deal size was largest among investments in real assets ($28 
+million), followed by public equity ($22 million), private equity ($ 7 million), and publicly traded 
+debt ($7 million). In terms of investors, the largest group was pension funds (18% of total 
+investments). In terms of investments, energy was the largest sector (16% of total investments). 
+55% of all investment went into “mature” public and private companies. In terms of sectors, the 
+GIIN (2020) data suggested that the categories of impact investments were evenly spread between 
+energy (16% of all investments), financial services (12%), forestry (910%), food and agriculture 
+(9%), and microfinance (8%).  
+According to the GIIN (2020) survey, 67% of its sample investors expected market-rate returns, 
+whilst 18% aimed for close to market rate returns and 15% accepted below-market-rate returns 
+(but close to capital preservation). This data suggests that impact investing can be either impact 
+first (with sub-market returns) or finance first (with market returns) depending on the structure of 
+the fund/deal and investor expectations.67 In terms of expected financial returns, foundations, 
+not-for-profit asset managers, and family offices were largely “impact first” and would accept 
+some sub-market rate investments. On the other hand, pension funds, insurance companies, for
+profit asset managers, and DFIs were “finance first” and generally expected market returns.  
+4. 
+Development Finance 
+Development finance is increasingly being categorized as a form of sustainable finance.68 This 
+sector includes multinational agencies, such as the Asian Development Bank (ADB); Inter
+67 The GIIN Annual Impact Investor Survey 2020 included data from 294 impact investors. In terms of returns, 67% of this sample suggested 
+that their investments achieved market rate returns, 18% achieved below market rate returns (but close to the market rate) and 15% achieved 
+below market rate returns (closer to capital preservation) see: https://thegiin.org/impact-investing/need-to-know/%23s2. 
+68 In earlier estimates of the size of the impact investing market, development finance was typically excluded. The GIIN Annual Impact Investor 
+Survey 2019. 
+https://thegiin.org/assets/GIIN_2019%20Annual%20Impact%20Investor%20Survey_ExecSumm_webfile.pdf. However, the 2019 GIIN report 
+estimated the market to be 239 billion, whereas the 2020 report estimated the size to be 404 billion. The large increase appears, at least partly, 
+to be a consequence of the inclusion of some DFIs in the 2020 survey sample for the first time. 
+14 
+American Development Bank and the International Finance Corporation (IFC); regional agencies, 
+such as the European Bank for Reconstruction and Development; and national agencies, such as 
+Centers for Disease Control and Prevention (CDC) in the UK.69 There is no single data set for all 
+development finance, but the IFC (2019)70 suggested that the 25 Harmonized Indicators for Private 
+Sector Operations signatory DFIs could be seen as impact investors with total assets under 
+management of $742 billion. 
+5.   
+Positive/Integrated Sustainable Finance 
+The central element of the positive/integrated ESG finance market is sustainable bonds. The 
+sustainable bond market has grown substantially since 2015 (Figure 5), driven primarily by green 
+bonds. By the second half of 2021, sustainability bond issuance had reached $91bn an increase 
+of 131% compared with the same period in 2020.71 
+Figure 5: Growth of Sustainable Bonds, 2015-2021 
+Source: Refinitiv1 
+69 CDC’s positioning of its investments within an ESG framework. https://toolkit.cdcgroup.com. 
+70 https://www.ifc.org/wps/wcm/connect/66e30dce-0cdd-4490-93e4-d5f895c5e3fc/The-Promise-of-Impact
+Investing.pdf?MOD=AJPERES&CVID=mHZTSds. 
+71 See: https://www.refinitiv.com/perspectives/market-insights/sustainable-finance-surges-in-popularity-during-h1-2021/ 
+15 
+i. 
+Green Bonds 
+By the first half of 2021, $227.8bn green bonds had been issued meaning that the total 
+cumulative green bond volume was 1.4tn. This represents a 49% growth rate in the period 2016
+2021.The projected forecast for full year 2021 was $400-$450bn. 
+In 2019, $257.7 billion of green bonds were issued globally- a growth of 51% on the 2018 total of 
+$167.3 billion. Of these, Europe accounted for 45% while the Asia and Pacific market issued 25% 
+with the People’s Republic of China (PRC) the largest Asian issuer.72  
+In 2019, the largest cumulative issuers of green bonds were the US Federal National Mortgage 
+Association ($22.8 billion), the German Reconstruction Credit Institute ($9.02 billion), the Dutch 
+State Treasury Agency ($6.66 billion), France ($6.57 billion), and the Industrial and Commercial 
+Bank of China ($5.85 billion) (footnote 75). Moreover, in 2019, a survey of 135 hedge funds in 13 
+countries with assets under management of $6.25 trillion, 84% reported “an increased interest in 
+ESG-orientated funds and strategies over the last 12 months”.73 All the major global stock 
+exchanges have listings for green bonds as public debt.74
+ ii. 
+Social Bonds 
+The first social bond was issued by the Instituto de Credito in Spain in 2015. It focused on offering 
+sub-market loans to small and medium-sized organizations in deprived areas with the aim of 
+accelerating economic growth and creating local jobs. The 3-year social bond raised €1 billion 
+from a range of international investors. Also, in 2015, this was followed by a second €1 billion 
+Spanish social bond issued by Kutxabank to provide affordable housing in the Basque country.75 
+In 2017, the IFC launched a Social Bond Program that offered investors an opportunity to allocate 
+social bond investments that are focused on the SDGs with a triple A-rated credit risk. Finance 
+from the bonds focused on supporting banking for women and inclusive business programs, which 
+benefit underserved populations in emerging markets, including women and low-income 
+communities with limited access to essential services, such as basic infrastructure and finance. By 
+2020, the IFC had issued 39 social bonds that raised $3.1 billion.76  
+72 https://www.climatebonds.net/resources/reports/2019-green-bond-market-summary. 
+73 https://www.cnbc.com/2020/02/14/esg-investing-numbers-suggest-green-investing-mega-trend-is-here.html. 
+74 https://www.forbes.com/sites/brendancoffey/2019/11/12/esg-stocks-are-having-a-fantastic-year/?sh=6fd53e352fbb; and 
+https://www.climatebonds.net/green-bond-segments-stock-exchanges. 
+75 https://www.gbm.hsbc.com/-/media/gbm/reports/insights/social-bonds.pdf. 
+76 https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/about+ifc_new/investor+relations/ir
+products/socialbonds. 
+16 
+In 2020, the SDG Impact project, within the United Nations Development Programme (UNDP), 
+launched a set of SDG Impact Standards for Bonds.77 These standards contained six standards 
+under four topic areas: strategic intent and impact goal setting, impact measurement and 
+management, transparency and comparability, and context and governance.  
+By 2020, total issuance had reached $33.1 billion, up from $6.2 billion in 2019. This accounted 
+for 28% of the total sustainable finance bond market.78 However, as the social bond market grew, 
+there has been an increasing demand for standards of impact reporting and disclosure.79  
+6. 
+Negative/Exclusionary Sustainable Finance 
+By 2021, the global total of assets under management that followed some form of ESG screen80 - 
+including sector, corporate practices, norms-based analysis against global standards 
+(International Labour Organization, United Nations Children’s Fund [UNICEF], Organization for 
+Economic Co-operation and Development), and the level of ESG integration in corporate strategy - amounted to $37.8 trillion - a growth of over 24% since 2018. It has been estimated that by 2025, 
+ESG assets will reach $53 trillion or over a third of the projected $140.5 trillion global total.81 
+Data also suggests that the majority of ESG investment is into public equity and fixed income 
+debt- categories that indicate a focus on mainstream businesses that are publicly listed. Following 
+the logic of the Double Delta model, these ESG investments are not materially impactful (Figure 
+6). 
+77 https://sdgimpact.undp.org/assets/SDG-Impact-Standards-for-Bonds_First-Public-Consultation-Draft.pdf. 
+78 https://cib.bnpparibas.com/sustain/capital-markets-and-covid-19-have-social-bonds-come-of-age-_a-3-3503.html. 
+79 https://www.sustainalytics.com/sustainable-finance/social-bonds/?utm_term=&utm_campaign=Leads-Search
+20&utm_source=adwords&utm_medium=ppc&hsa_acc=4619360780&hsa_cam=11145778763&hsa_grp=108965194933&hsa_ad=46592933
+ 5428&hsa_src=g&hsa_tgt=dsa
+437115340933&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwufn8BRCwARIsAKzP695DhC7NGecVbGtOT9i
+GUr-J5f81BjR3oE_FH11KyEESpDqBOS96uoaAhQ7EALw_wcB. 
+80 See: https://www.dbresearch.com/PROD/RPS_EN
+PROD/PROD0000000000518186/What_are_exclusionary_trends_in_sustainable_invest.PDF?undefined&realload=5j7GoVKHGYdG6mBbmrH
+ kWdv4hdTuOXLDdd8bSSJmJdt8wr2riZBfuM/OGUlDefoq 
+81 See: https://www.bloomberg.com/professional/blog/esg-assets-may-hit-53-trillion-by-2025-a-third-of-global-aum/ 
+17 
+18 
+ 
+ 
+ 
+Figure 5: Global Sustainable Finance Asset Allocation, 2018  
+ 
+                           PE = private equity, VC = venture capital  
+                           Source: GSI Alliance (2018). 
+ 
+In terms of geography, the European ESG market focused mainly on an exclusionary approach, 
+whereas the US market focused more on ESG integration (Figure 7). 
+ 
+ 
+ 
+Figure 7: Sustainable Assets by Thematic Approach and Region, 2018 
+ 
+     ESG = environmental, social, and governance. 
+     Source: GSI Alliance (2018). 
+ 
+ 
+Figure 8 summarizes the market sizes across the spectrum of sustainable finance. 
+ 
+Public  
+equity 
+51% 
+Fixed 
+income 36% 
+Real 
+estate/property 
+3% 
+ Figure 6: Global Sustainable Finance Allocation, 2018 
+ 
+Figure 8: The Spectrum of Sustainable Finance: Approximate Market Size 
+V. THE SPECTRUM OF SUSTAINABLE FINANCE: RETURNS 
+A. 
+Positive/Integrated Environmental, Social, Governance Finance: Returns 
+In terms of returns on investment, a key feature of the spectrum of sustainable finance is that it 
+includes finance with a wide range of return expectations. At one extreme, grants expect a zero 
+return and, on the other, negative/exclusionary ESG funds can achieve above market returns. 
+However, with the exception of the GIIN data on the two forms of impact investing (impact first 
+and finance first), there are no consolidated data sets for the returns of other types of capital in the 
+spectrum. As such, the returns presented here have been estimated from available sources and 
+should be seen as indicative. 
+B. 
+Grants and Program Related Investment 
+As 100% loss finance, grants play an important role both as start-up risk capital and as 
+concessionary sustainable finance within blended finance structures and deals. The returns to PRI 
+may vary between loss-making to market rate returns (more typical in the US) under the conditions 
+that were noted above. For example, KL Felicitas Foundation, which aims to invest 100% of its 
+assets as impact, reported a 2.5% per annum loss on its PRIs.82  
+C. 
+Impact Investment 
+82 https://www.thinknpc.org/wp-content/uploads/2018/06/In-pursuit-of-deep-impact_NPC_KLF-Digital-1.pdf. 
+19 
+In terms of impact investment returns, the GIIN 2020 survey separated out the investment data 
+into either ‘developed market” or “emerging market” categories, and then by type of finance (as 
+annualized, realized, and gross returns).83  In developed markets, the average actual return with an 
+expected market rate return was 16% from private equity, 13% from real assets, and 8% from 
+private debt. In emerging markets, the average actual return with an expected market rate return 
+was 18% from private equity, 10% from private debt, and 8% from real assets. While these returns 
+look broadly in line with the typical market rate returns on mainstream private equity84 and private 
+debt,85 important empirical questions remain concerning whether these returns are properly risk
+adjusted, given the typically non-financialized impact risk variable in the overall capital 
+structure.86 Across the GIIN 2020 survey sample, more than 50% of respondents saw a severe or 
+moderate financial risk in several categories of performance, including business execution and 
+management risk (23%+54%), country and currency risk (18%+40%), macroeconomic risk 
+(17%+49%), financing risk (13%+46%), and market demand and competition risk (9%+44%). 
+In developed markets, the average actual return with an expected below-market rate return was 
+10% from private equity and 7% from private debt. In emerging markets, the average actual return 
+with an expected below-market rate return was 11% for private equity and 8% for private debt. In 
+both below-market scenarios, real assets did not expect a sub-market return. The GIIN data also 
+suggested that the majority of its sample investors’ financial returns were either “in line with” or 
+“outperforming” expectations, with only 12% reporting that they were “underperforming”. 
+D. 
+Mission-Related Investment  
+MRIs typically seek market returns.87 However, against this assumption and aside from PRIs, KL 
+Felicitas Foundation’s overall endowment returned only 2.75% per annum as MRI. This could be 
+seen as indicative of a lower threshold for MRI returns. 
+83 The median age of inception of the investments in the sample was 2011. 
+84 Average returns globally from 2009 to 2019 were 15.3%. https://www.marketwatch.com/story/private-equity-returns-have-gone-up-that-may
+not-last-2020-06-18. 
+85 The average return in private debt globally from 1998 to 2016 was between 10% and 15%. https://www.ipe.com/research-the-rise-of-private
+debt/10012090.article. However, the COVID-19 pandemic will likely severely affect more recent returns. 
+https://www.fnlondon.com/articles/private-debt-funds-set-for-worst-performance-since-the-global-financial-crisis-20200807. 
+86 Interestingly, however, there are some data that suggest that impact finance outperforms the market. This may be for several reasons, including 
+overall better risk management (ESG funds: https://www.ft.com/content/733ee6ff-446e-4f8b-86b2-19ef42da3824); exploiting new, growth 
+markets (green finance: https://www.bloomberg.com/graphics/2019-green-finance/); and lack of correlation with market risk (microfinance: 
+https://www.triodos.co.uk/ethical-investments/microfinance-fund/LU0842307588). 
+87 As a benchmark, the average market returns over 10 years to June 2020 were S&P 500 14.7% and DOW Jones Industrial 15.04%. 
+https://www.wealthsimple.com/en-us/learn/average-stock-market-return. 
+20 
+E. 
+Development Finance 
+Generally, aside from direct grants, development finance seeks a market return. Development 
+finance returns can be estimated from some of the larger players in the market. For example, the 
+IFC recorded an average return on assets in a range of 0.1%–1.6% between 2015 and 2019,88 
+whereas CDC returned an average 10.3% in 2012–2016.89 Further, an analysis of the equity returns 
+on IFC, the European Bank for Reconstruction and Development, and the Netherlands 
+Development Finance Company (FMO) showed an average of 10% between 2003 and 2015.90  
+F. 
+Green and Social Bonds 
+The data on the pricing of green bonds remains mixed.91 But some analysis suggests that the 
+pricing does not typically reflect any sort of risk premium.92 As such, returns are typically close 
+to conventional bonds which have been between zero and 2% over the past 5 years.93 For example, 
+in 2020, Barclays issued a £400 million, 6-year, green bond to support climate-related products 
+and initiatives with an annual yield of 1.70%.94 
+While the available data is more limited for social bonds, they seem to follow a similar pricing 
+profile to green bonds without any risk premium. For example, in 2020, Assura issued a £300 
+million, 10-year, social bond with an annual yield of 1.5%.95  
+G. 
+Negative Environmental, Social, and Governance Finance96 
+In terms of the returns on negative/exclusionary ESG finance, the available data suggests that the 
+top-performing stocks returned between 12% and 16% in 2018–2019 (Figure 9). This compares to 
+a 29% growth in the S&P 500 for the same period.97 
+88 https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/annual+report/financials. 
+89 https://www.devex.com/news/financial-returns-likely-to-go-down-over-next-5-years-says-cdc-chair-92943. 
+90 https://publications.iadb.org/publications/english/document/Comparative-Study-of-Equity-Investing-in-Development-Finance-Institutions.pdf. 
+91 https://www.mdpi.com/1911-8074/13/9/193. 
+92 https://blogs.cfainstitute.org/investor/2019/10/08/green-bonds-vs-traditional-bonds. 
+93 https://www.climatebonds.net/files/reports/cbi_gb_pricing_2h2018_08052019.pdf. 
+94 https://home.barclays/news/press-releases/2020/10/barclays-raises-p400m-through-second--green-bond--issue-/. 
+95 https://www.investegate.co.uk/assura-plc/rns/pricing-of--300m-social-bond/202009081619503846Y/. 
+96 https://www.institutionalinvestor.com/article/b1m8spzx5bp6g7/Private-Equity-Makes-ESG-Promises-But-Their-Impact-Is-Often-Superficial. 
+97 https://markets.businessinsider.com/news/stocks/sp-500-2019-annual-return-for-year-best-since-2013-2019-12-1028790061? 
+21 
+Figure 9: Returns on Top Ten ESG Funds 2018-2019 
+Figure 10. Returns on Top Ten Environmental, Social, and Governance Funds, 2018–2019 
+Source: Financial Times Advisor                   
+(https://www.ftadviser.com/investments/2019/10/10/esg-investing-provides
+strong-returns/).  
+However, Barclays Bank analysis of the ESG performance of their funds between 2013 and 2020, 
+showed rough parity between ESG and non-ESG equity returns, averaging about 18% annual 
+growth (Figure 10).  
+22 
+23 
+ 
+ 
+ 
+Figure 10: Environmental, Social, and Governance−Non-Environmental, Social, and 
+Governance Equity Performance 
+ 
+ESG = environmental, social, and governance.  
+Note: The sample period is from January 2013 to February 2020.  The figure displays total returns (net of fees) 
+where returns are averaged by month and fund type.  Funds with assets under management larger than £100 million 
+are included in the sample. 
+Source: EPFR, Barclay’s Research (https://www.investmentbank.barclays.com/our-insights/3-point-perspective/esg
+funds-looking-beyond-the-label.html?cid=paidsearch-). 
+ 
+ 
+Similarly, the MSCI ESG Leaders Indices generally performed well against the main index over a 
+10-year period (Figure 11). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 11: 
+Figure 10. Performance of MSCI World Index versus MSCI Environmental, Social, and 
+Governance Leaders Indices Gross Annualized Returns, 2009-2019 
+ESG = environmental, social, and governance; MSCI = Morgan Stanley Capital International. 
+Source: MSCI, Davy Global Fund Management (https://www.davygfm.com/insights/esg-investing-series/the
+returns-and-fundamentals-of-esg-integrated-investing.html).  
+Table 2 summarizes the spectrum of social finance in terms of market size and returns. 
+Type of Finance 
+Table 2: Spectrum of Social Finance Returns 
+Approximate Market Size 
+Estimated Returns 
+($) 
+Grants 
+75 billion 
+(%) 
+Program-related investment -100 
+75 billion 
+Impact investment: Impact first -2.5 to Market Rate 
+134 billion 
+Impact investment: Finance first 
+7–11 
+270 billion 
+Mission-related investment 
+8–18 
+1.5 trillion 
+Development finance 
+2.75–15.00 
+742 billion 
+Positive/integrated ESG 
+10 
+1.4 trillion 
+Negative/exclusionary ESG 
+0–2 
+37.8 trillion 
+ESG = environmental, social, and governance. 
+Source: Author’s own research. 
+10–18 
+24 
+Figure 12 sets out the spectrum of sustainable finance with approximate market size and estimated 
+returns. 
+VI.  MARKET INFRASTRUCTURE 
+A. 
+Green and Social Bonds 
+Most mainstream investment banks have developed bespoke ESG equity and debt funds. For 
+example, JP Morgan,98 Barclays,99 UBS,100 and Credit Suisse101 all offer a range of ESG or impact 
+investing funds. In 2020, Credit Suisse launched the Environmental Impact Equity Fund.102 The 
+secondary market for ESG equity and green bonds is also developing.103 Several green bond 
+indexes have been established. The Solactive Green Bond Index104 uses rules-based, market
+weighted calculations to track the performance of its bonds. The S&P Green Bond Index105 
+includes labelled green bonds by issuers who demonstrate a robust and audited performance 
+disclosure framework. The Bloomberg Barclays MSCI Green Bond Index includes corporate, 
+government, and securitized green bonds with an investment grade and fixed coupon rate.106
+ 98 https://privatebank.jpmorgan.com/gl/en/services/investing/sustainable-investing/impact-investing. 
+99 https://www.barclays.co.uk/smart-investor/investments/funds-etfs-and-investment-trusts/impact-investing-funds-and-etfs/. 
+100 https://www.ubs.com/uk/en/asset-management/institutional-investors/investment-themes/sustainable-impact-investing.html. 
+101 https://www.credit-suisse.com/uk/en/private-banking/secure-your-legacy/sustainable-investing.html. 
+102 https://www.credit-suisse.com/pwp/am/downloads/marketing/br_lu2176897911_uk_csam_en_web.pdf. 
+103 https://www.mdpi.com/1911-8074/13/9/193. 
+104 https://www.solactive.com/?allgemein/lithium-reporting/?lang=DE000A1EY8J4&index=DE000SLA0FS4. 
+105 https://www.spglobal.com/spdji/en/indices/fixed-income/sp-green-bond-index/#overview. 
+106https://www.msci.com/documents/1296102/11926825/Bloomberg+Barclays+MSCI+US+Aggregate+ESG+Choice+Bond+Index_Fact+Sheet.p
+ df/bff9fd82-396d-ab79-3b7d-cfdecd5d3dea 
+25 
+B. 
+Impact Investment 
+With respect to the impact investment market, the infrastructure still lacks many of the components 
+of a fully functioning financial market, such as agreed impact performance metrics, listings on 
+debt or equity public markets, and retail investment instruments.107 Specifically, the intermediary 
+landscape of impact investment remains relatively underdeveloped. 
+Nevertheless, several pioneering organizations have played an important role in developing the 
+market. The UK lead the way in building the institutional infrastructure as a consequence of 
+consolidated government policy support since 2010.108 Between 2010 and 2015, the UK 
+Government supported the establishment of the world’s first impact investing wholesale 
+investment bank - Big Society Capital - the first bespoke fund manager - Bridges Ventures (now 
+Bridges Fund Management), and the first bespoke consultancy - Social Finance.109 In addition, the 
+Government of the UK used public finance to set up several social venture funds such, as UnLtd, 
+the Social Investment Business,110 and Futurebuilders.111 In 2010, with the support of the Ministry 
+of Justice, Government of the UK launched the first social impact bond (SIB) focused on 
+supporting ex-offenders in Peterborough Prison.112 After this, the government introduced a range 
+of publicly financed outcomes funds specifically designed to support the development of SIBs 
+mobilizing more than £240 million. Finally, the UK also pioneered several other bespoke impact 
+investing policy initiatives. Outside of the direct influence of the government, the UK has also 
+seen other innovative, private, impact investing organizations emerge, most notably the first, 
+specialist, impact investing bank—ClearlySo.113 
+Subsequent to these UK initiatives, other countries have adopted or are developing several of the 
+innovations. These include exploring accessing dormant bank accounts to capitalize an impact 
+investing wholesale bank in the Republic of Korea114 and Japan115, and widespread adoption of 
+impact bonds.116  
+107 https://medium.com/impact-engine/mind-the-gaps-whats-missing-in-impact-investing-markets-525f9ea16491. 
+108 Nicholls and Teasdale (2017; 2020). 
+109 https://www.socialfinance.org.uk. 
+110 https://www.sibgroup.org.uk. 
+111 https://en.wikipedia.org/wiki/Futurebuilders_England. The Futurebuilders fund was later managed by the Social Investment Business. 
+112 Nicholls and Tomkinson (2015). 
+113 www.clearlyso.com. 
+114 https://www.kif.re.kr/kif3/eng/search/total_search?SearchText1=dormant. 
+115 https://www.responsible-investor.com/articles/jap-soc. 
+116 https://golab.bsg.ox.ac.uk/knowledge-bank/indigo-data-and-visualisation/impact-bond-dataset-v2/. 
+26 
+VII. INNOVATIVE INSTRUMENTS117
+ An important feature of the sustainable finance market has been the development of innovative 
+financial instruments and deal/fund structures. Central to these innovations has been the range of 
+sustainable finance models set out in the sustainable finance spectrum from 100% loss grants to 
+market rate return investments (Figure 11). The opportunities offered by this spectrum are twofold. 
+First, sustainable finance models can drive the development of new instruments that would be 
+unavailable to the mainstream when they do not conform to standard models of risk-adjusted 
+returns. Second, the spectrum of sustainable finance offers opportunities for “blended” deal/fund 
+structures that bring together multiple forms of impact investing, with different impact-return 
+appetites, to leverage the capital of each individual investor further in co-investment models. 
+A. 
+Liquidity and Exit 
+In common with the mainstream, sustainable investors can use equity and debt models; but, unlike 
+the mainstream, they can also deploy impact first—concessionary priced instruments—as well as 
+grants. The majority of impact investing capital in the 2020 GIIN survey was deployed as private 
+debt (37%) and private equity (16%). However, public listings are also evident in the GIIN sample, 
+including publicly traded debt at 24% and public equity at 10%.118 Nevertheless, despite this 
+evidence of the use of public equity, to date, there is no fully functioning “impact” stock 
+exchange,119 though there are placement intermediaries, such as ClearlySo in Europe, and the 
+Impact Investing Exchange (IIX) in Asia.120 Indeed, the lack of liquidity and difficulty of exit 
+(initial public offerings are very rare in this sector)121 was considered a “moderate” or “severe 
+risk” by 68% of all the GIIN 2020 sample. In this context, innovation has tended to focus on 
+alternative (and typically “responsible”) strategies exit.122  
+117This section draws extensively on Patton-Power (2020:1). https://impactalpha.com/incentives-for-driving-impact-in-deal-and-fund-structures/; 
+and Patton-Power (2020:2). https://impactalpha.com/10-ways-to-redesign-venture-finance-for-a-more-inclusive-post-covid-world/. 
+118 These exits are typically in established sectors with a track record of impact investments achieving scale, such as microfinance, green 
+technologies, and health interventions, though, for interesting innovations, see the Women’s Livelihood Bond: https://iixglobal.com/wp
+content/uploads/2019/02/IIX-Foundation_WLB-Final-Blueprint-Paper_FEB-2019.pdf and Retail Charity Bonds, https://allia.org.uk/about
+us/#history-row. 
+119 Though an abortive attempt at such an exchange was launched in 2007: https://www.ethex.org.uk/towards-a-social-stock-exchange_46.html. 
+120 https://iixglobal.com. See also: https://www.svx.ca. 
+121 https://www.csrwire.com/press_releases/39700-first-benefit-corporation-goes-public-laureate-education. 
+122 https://privateequity.weil.com/thought-leadership/private-equity-and-impact-investing-rethinking-exit-opportunities/; and 
+https://thegiin.org/research/publication/responsible-exits. 
+27 
+1. 
+Revenue-Based Models 
+For example, revenue-based models create progressive liquidity via pre-agreed redemptions of 
+equity or dividends paid on “growth” metrics, such as revenue, free cash flow, or net profitability. 
+In this way, a private equity investment could be structured so that agreed cash dividends are paid 
+based on free cash flow up to the point where the aggregate dividends paid reach an agreed multiple 
+of the original investment. At this point, the investee enterprise could redeem the underlying shares 
+at their original price or at an agreed multiple. This model reduces the downside risk to the private 
+equity investor if a standard exit is unlikely to be available within a reasonable time frame. For the 
+investee, this model has the advantage over debt in that it only requires payments when there is 
+available capital, plus it does not introduce the risk of using assets as security. Another innovative 
+exit strategy is via a mandatory share redemption agreement. Such redemptions can be structured 
+in increments over the total investment period at a predetermined price and frequency based on 
+cash flow.123 In these ways, linking liquidity rights to financial performance can benefit both the 
+impact investor and investee in terms of managing risk and optimizing the timescale of investment 
+and exit. An alternative use of the revenue participation model has been to convert debt into 
+equity.124 This can be structured as debt linked to a right to purchase equity. In 2015, Barclay’s 
+launched a High Growth and Entrepreneurs Fund, backed by £100 million from the EIB. The fund 
+aimed primarily at job creation in the UK and provided early-stage venture debt capital to growth
+stage businesses with an option to buy equity. In 2016 Barclays increased the fund to £200 million. 
+B. 
+Quasi-Equity 
+Another innovative instrument developed by impact investors is quasi-equity, which is a form of 
+debt finance that combines some of the benefits of equity with a loan.125 Quasi-equity models 
+typically share the risk and reward of an investment between investors as another form of revenue 
+participation focused on debt. Quasi-equity is usually structured as a loan where the financial 
+return (effectively the interest rate or cost of capital) is calculated as a percentage of the investee’s 
+123 For example, in 2016, the Acumen Fund invested $460,000 in Gigante Central Wet Mill with a deal structured as a blend of debt and equity. 
+Under the investment terms, Gigante Central Wet Mill deposited the cash flow above an agreed working capital amount into a reserve account. 
+This account was then used to buy back Acumen Fund’s equity stake at an agreed price equal to Acumen Fund’s invested capital plus an 
+agreed annual return. The account also paid off the debt with a 2-year grace period. https://privateequity.weil.com/thought-leadership/private
+equity-and-impact-investing-rethinking-exit-opportunities/. 
+124 For example, Adobe Capital (Mexico) has used revenue-based debt to allocate capital into growth impact enterprises since 2012. These 
+agreements are convertible to equity based on the amount of debt outstanding. The value to entrepreneurs is that they provide access to less
+dilutive risk capital which does not require follow-on debt refinancing. Contrary to traditional debt, these contracts typically offer flexible 
+payment schedules and, sometimes, an initial grace period. 
+125 https://knowhow.ncvo.org.uk/funding/social-investment-1/investment-types/quasi-equity-revenue-participation#. 
+28 
+future revenue streams. A quasi-equity investment can be a useful source of finance when 
+conventional debt financing is too expensive (for example, where there is a high-risk premium) or 
+too risky (for example, asset-backed finance) for a social enterprise or where share capital may not 
+be possible because of the investee’s legal structure (for example, a registered charity). Unlike a 
+conventional loan, the cost of capital of quasi-equity is dependent on the financial performance of 
+the organization. If future expected financial performance is not achieved, a lower or possibly zero 
+financial return is paid to the investor. Conversely, if enterprise performance is better than 
+expected, then a higher financial return may be payable. A quasi-equity investment may be 
+structured so that its return is capped (for example, revenue participation payments cannot exceed 
+twice the original investment size), or be limited in duration (for example, the right to revenue 
+participation is extinguished after a specified time period).  
+1. 
+Hackney Community Transport 
+Quasi-equity can also be used to reward impact performance when this is directly linked to 
+financial performance. For example, in the UK, the Hackney Community Transport (HCT) group 
+(a social enterprise bus company in London)126 raised £4.145 million in a combination of a fixed 
+loan (5% for 5 years £2.128 million) and a quasi-equity social loan (£1.917 million).127 The social 
+loan allowed investors to share in both the risks and the returns of HCT. If HCT did not reach an 
+agreed threshold of growth, there would be zero returns to the investors, but the upside returns 
+could exceed the 5% fixed loan since the contract specified an uncapped 1 percentage share of 
+every £1 million increase in revenues generated over an agreed threshold. The social loan was 
+defined as such because HCT’s impact was a direct consequence of its financial performance: it 
+used its surplus from running bus contracts to subsidize community transport for those who could 
+not easily access transport and who often had mobility issues. Therefore, as it grew its core 
+business, HCT would increase its impact in terms of its other (discounted or free) services.128 
+2. 
+Acumen Fund 
+126 http://hctgroup.org. 
+127 There were four investors: Bridges Social Entrepreneurs Fund; Social Investment Business, Futurebuilders Fund; Big Issue Invest, Social 
+Enterprise Loan Fund; and Rathbone Greenbank. The deal was brokered by ClearlySo. 
+128 Hill (2011). 
+29 
+The Acumen Fund developed their own version of quasi-equity characterized as “patient 
+capital”.129 Patient capital is typically a high-risk, long-term, and early-stage growth capital 
+structured as debt or equity. Acumen focuses its investments primarily on access to health 
+care, water, housing, alternative energy, or agricultural inputs with typical investments 
+between $300,000 and $2.5 million over 7–10 years. 
+3. 
+European Union 
+In the EU context, the EIB supported a quasi-equity investment in Heliatek, a world leader in 
+organic photovoltaic and a manufacturer of solar films. As a part of a €80 million round of growth 
+finance, the EIB contributed a €20 million loan, from its European Fund for Strategic 
+Investments,130 in conjunction with five other investors who raised €42 million in equity. There 
+were also €18 million in subsidies from the State of Saxony and the European Regional 
+Development Fund.131 
+4. 
+Calvert Foundation 
+In 1995, in contrast to these fund-based models, the Calvert Foundation developed a retail product 
+that offers individual investors a customizable debt impact investment—the Calvert Community 
+Investment Note.132 The notes can be purchased in increments of $1,000, and investors can choose 
+the region and program focus of their investment. Further, the investor can choose the maturity of 
+the note from 1 year to 15 years, and the interest rate from 0.5% to 3.5%. By 2020, the note had 
+raised $478 million to be deployed to community development financial intermediaries and social 
+enterprises in the US. 
+C. 
+Guarantees 
+Often using grant capital, 133 equity or debt guarantees allow (typically foundation) funders to 
+leverage their balance sheet by de-risking deals and, as a result, bring in other investors.134 In 
+addition, guarantees also lower the overall cost of capital to the investee below the risk-adjusted 
+market rate. Another example is forgivable loan that functions as debt that can be converted to 
+129 https://acumen.org/about/patient-capital/. 
+130 https://www.eib.org/en/efsi/index. 
+131 https://www.eib.org/en/press/all/2016-213-heliatek-raises-eur80-million-to-finance-large-manufacturing-expansion-and-support-worldwide
+market-development. 
+132 https://www.calvertimpactcapital.org/invest. 
+133 As noted above, venture philanthropy also typically brings in pro bono technical support and networking as well as long-term grants. 
+134 GIIN survey of US guarantees: https://thegiin.org/assets/GIIN_Issue_Brief_Guarantees_final%20for%20web.pdf. 
+30 
+grant. This can act as an incentive for enterprises to maintain their impact objectives ahead of profit 
+maximization, for example, to maintain workforce levels under financial stress, and is often used 
+by governments.135 There are also examples of convertible grant that turn grant into equity.136 This 
+instrument can be used to fund very early-stage enterprises to develop their ideas before seeking 
+investment capital. Typically, if a grantee succeeds in fundraising follow-on equity capital, then the 
+grant-maker recovers its fund as an equity buy-out and can then recycle its capital to invest in new 
+innovations. In contrast, recoverable grants explicitly aim to recycle capital typically when an 
+enterprise reaches an agreed valuation, level of revenue, or net profit.137 The GECES Working 
+Group within the EU also discussed a number of these models.138 
+VIII. INNOVATIVE STRUCTURES 
+Related to these innovations in the instruments for sustainable finance are opportunities for 
+innovative impact deal and fund structures supported by catalytic capital, specifically subordinated 
+and first loss debt and guarantees.139 Further, these structures typically bring in a range of investors 
+with different risk-return (and impact) profiles as a form of blended finance.140 The great 
+opportunity offered by these blended funds is to leverage in commercial capital that typically looks 
+for a market return into impact deals that would not provide such a return without the other 
+subordinate investors. In this sense, the structuring of blended funds and deals should bring in 
+additional commercial capital that, otherwise, would not be deployed for impact. 
+A. 
+Blended Capital 
+In 2013, the UK Cabinet Office Report provided the first overview of the various emergent forms 
+of blended funds described as “co-mingling”.141 The report identified three types of co-mingling 
+fund: pari-passu, risk-reward, and but-for. With pari-passu funds, all investors come in on equal 
+135 For example, the use under the Paycheck Protection Program in the US: https://bluedotlaw.com/forgivable-loans/. 
+136 https://philanthropy-impact.org/article/full-spectrum-finance-how-philanthropy-discovers-impact-beyond-donation-and-investments. 
+137 https://echoinggreen.org/wp-content/uploads/2019/08/Echoing-Green-Recoverable-Grant-FAQ-UPDATED-2019.pdf. 
+138 https://evpa.eu.com/news/2017/improving-access-to-funding-a-complementary-subject-paper-from-the-geces. 
+139 https://www.macfound.org/programs/catalytic-capital-consortium/. The GIIN (2020) investor report stated that 78% of its sample had engaged 
+with catalytic capital. Within this sample, the largest segment at 72% of respondents deployed some form of “flexible” debt, though only 49% 
+described this as “subordinate”. 
+140 https://thegiin.org/blended-finance-working-group; and http://www.oecd.org/publications/making-blended-finance-work-for-the-sustainable
+development-goals-9789264288768-en.htm;https://www.blendedvalue.org/blog-posts/blended-value-investing-an-initial-paper-from-the
+world-economic-forum; and https://www.weforum.org/reports/blended-finance-toolkit. 
+141 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/193697/2900897_HMGCO_Co
+mingling_acc.pdf. 
+31 
+terms as limited partners, but these could include foundations, investment funds, individual 
+investments, and donations deployed via a charitable trust. Risk mitigation can take the form of a 
+cornerstone investment from a foundation, as well as shared risk across the whole portfolio.142 
+Moreover, in these funds, impact investors can also act as path finders for more commercial capital 
+to identify an attractive investment opportunity through an impact lens.143 With risk-reward funds, 
+foundations or other impact investors typically take a higher-risk position, but also receive an 
+expected higher return. This should still leverage in extra commercial investment. Such structures 
+may also include guarantees such as the African Agricultural Fund144 that was structured around 
+a blend of high-risk equity from foundations (Gatsby, Rockefeller, and Gates), 
+subordinate/unsecured debt from a commercial bank (JP Morgan), and a 50% loan guarantee from 
+the United States Agency for International Development that changed the risk-return profile of the 
+commercial debt. This allowed the fund to make equity and quasi-equity investments into 
+smallholder farmers. Finally, with but-for funds, foundations, governments, or international 
+development agencies typically invest on subordinate terms to leverage larger volumes of 
+commercial investment to deliver impact at scale. For example, the Eye Fund145 loan fund blended 
+three types of capital: equity and subordinate debt from foundations and individual impact 
+investors with senior debt provided by commercial banks and DFIs. $1.48 million of equity and 
+subordinated debt brought in $13 million in senior debt at nearly 13 times leverage. The fund 
+provided direct loans to eye care organizations across the world.  
+B. 
+Impact Bonds 
+As distinct from a green or social bond, an impact bond is a contingent future liability contract 
+which is structured as a partnership aimed at improving social, developmental, or environmental 
+outcomes for service users.146 The usual partners in an impact bond are investors who provide 
+upfront working capital, service providers who use the invested capital to deliver (often novel) 
+services, an outcomes payer who agrees to repay investors their capital with a return linked to 
+agreed outcomes being achieved, and a third-party assessor of the service performance and 
+142 Eg Esmee Fairnbairn Foundation in the Big Issue Invest Social Enterprise Investment Fund. 
+143 As was the case with the Grameen Bank and BRAC pioneering microfinance, a market that is projected to be worth $174.4 billion by the year 
+2025. https://www.globenewswire.com/news-release/2020/04/02/2010777/0/en/Global-Microfinance-Industry.html. 
+144 https://www.aatif.lu/home.html. 
+145 https://gsgii.org/case_studies/eye-fund/. 
+146 https://golab.bsg.ox.ac.uk/the-basics/. 
+32 
+outcomes who audits the outcomes. In addition, another third-party partner may be required to 
+structure the impact bond contract. 
+Impact bonds are different from traditional contracts, such as fee-for-service or grant-based 
+contracts as they are focused on the outcomes rather than the inputs and activities. For example, 
+an impact bond that is seeking to support young people at school would be more interested in 
+improvements in grades (outcomes) rather than the fact that the children were going to after-school 
+classes or seeing a mentor (activities). Impact bonds encompass SIBs, development impact bonds 
+(DIBs), and environmental impact bonds. 
+In 2010, the Government of the UK pioneered the first SIB that is focused on reducing re-offending 
+rates in HM Peterborough Prison.147 In 2015, the first DIB, focused on girls’ education in northern 
+India, was launched.148 In 2018, the first environmental impact bond was launched.149 
+By 2020, 200 impact bonds had been launched globally, raising more than $450 million in 
+investment.150 
+C. 
+Impact Milestones 
+Beyond fund and deal structures, impact investors have also innovated in terms of deploying 
+capital around impact milestones, for example in loans that are linked to outcomes, such as the 
+social impact incentives designed by Roots of Impact. At the deal level, this could include 
+integrating impact milestones with other performance incentives, such as releasing capital in 
+tranches, transferring the ownership of shares (vesting), or other options for equity buyback by the 
+enterprise. If impact milestones are not achieved, disincentives can be built into to the deal structure, 
+including investor exit or loan default. 
+D. 
+Outcomes Funds 
+At the fund level, the Bertha Centre at the University of Cape Town co-created a Green Outcomes 
+Fund that operates in a similar way as a social impact incentive, but at a fund level. Participating 
+147 https://www.socialfinance.org.uk/peterborough-social-impact-bond. 
+148 http://instiglio.org/educategirlsdib/wp-content/uploads/2015/09/Educate-Girls-DIB-Sept-2015.pdf. 
+149 https://www.goldmansachs.com/media-relations/press-releases/current/dc-water-environmental-impact-bond-fact-sheet.pdf. 
+150 https://golab.bsg.ox.ac.uk/knowledge-bank/indigo-data-and-visualisation/impact-bond-dataset-v2/. 
+33 
+fund managers commit to investing their own capital into green enterprises to achieve 
+predetermined social and environmental outcomes as well as a financial return. As they hit 
+milestones, they can claim payment from the fund, which is capitalized by a mix of public and 
+private grant capital. These outcome payments amount to a top-up payment because they are much 
+smaller than the overall investments. Loans that are linked to outcomes allow outcome funders to 
+leverage their capital to pay for a portion of the cost of impact. They are distinct from SIB and 
+DIBs, where the full cost of outcomes are borne by the funder. Further, at the fund-manager level, 
+impact performance can be linked to reward as a form of impact bonus as is already the case with 
+some ESG funds.151 Similarly, a form of impact “carry” could link fund managers’ fees to impact 
+performance.152 
+E. 
+Cooperative Finance 
+Finally, in terms of the cooperative and mutual sector, the Fund for Employee Ownership has 
+created an innovative fund that is focused on three strategies to change the ownership structure of 
+companies: acquire, convert, and support strategy. The objective is to engage company owners 
+with a transaction that resembles a standard buy out (acquire), but differs in terms of the change 
+of ownership (convert). The investment model is patient capital.153 
+IX.  ASIAN CONTEXT 
+A. 
+Green Bonds 
+Investing in sustainable finance has been growing strongly in Asia since 2013, particularly in green 
+bonds (Figure 13). Moreover, there is an opportunity for significant future green growth in Asia.154 
+151 https://www.acre.com/thought-leadership/outcomes-aligned-incentive-structures-investment-management. 
+152 Though this is, as yet a rare model. https://www.mdif.org/about/funds/. 
+153 https://www.evgoh.com/tfeo/. 
+154 https://www.adb.org/sites/default/files/publication/224391/ewp-508.pdf. 
+34 
+Figure 13: Global Green Bonds Issued by Region ($ billion) 
+Source: Climate Policy Initiative (2020). 
+Until 2015, the sustainable finance market was dominated by Japan.155 However, the most 
+significant growth in sustainable finance has been in the People’s Republic of China. By 2018, the 
+PRC had issued 18% of all global green bonds (Figure 14). 
+155 https://www.adb.org/publications/fostering-green-finance-sustainable-development-asia. 
+35 
+36 
+ 
+ 
+ 
+Figure 14: Chinese Green Bonds Issued ($ billion) 2015–2018 
+ 
+Source: UBS Global Wealth Management (https://www.ubs.com/global/en/wealth-management/chief
+investment-office/market-insights/house-view/daily/2019/rise-of-si-in-asia.html).  
+ 
+Further, by 2019, twelve Asian exchanges were requiring some form of ESG disclosure from their 
+listed companies.156 
+ 
+B. Social Bonds 
+In 2019, social bonds accounted for only 5% of the total Asia and Pacific issuance of sustainable 
+bonds. However, during 2020, issuance grew by 41%, partly as a market response to funding the 
+challenges of COVID-19.157 For example, the Bank of China Macau issued a $638 million 
+COVID-19 social bond—the first in the world to fund small and medium-sized enterprises that 
+were affected by COVID-19. In the ROK, Kookmin Bank also issued a $500 million COVID-19 
+social bond. In addition, Indonesia listed COVID-19 in its use of proceeds when it raised US$4.3 
+billion of long-term debt funding. Asia’s social bond market is being shaped by national guidelines 
+ 
+156 These are: Shanghai Stock Exchange; Shenzhen Stock Exchange; Hong Kong Exchange; National Stock Exchange of India; Indonesia Stock 
+Exchange; Japan Exchange Group; Korea Exchange; Bursa Malaysia; Philippine Stock Exchange; Singapore Stock Exchange; Stock Exchange 
+of Thailand; Hi Chi Min Stock Exchange (Vietnam): https://www.ubs.com/global/en/wealth-management/chief-investment-office/market
+insights/house-view/daily/2019/rise-of-si-in-asia.html. 
+157 https://www.gbm.hsbc.com/insights/growth/social-bonds-on-the-front-line. 
+in the region as well as international standards. For example, since 2010, ADB has issued a series 
+of themed bonds, focused on clean water, gender, and health, raising more than $2.7 billion. The 
+Asia and Pacific region is now a global leader in social bond issuance. 
+In 2018, in a related innovation, IIX Asia launched a Women’s Livelihood Bond158 as an $8 
+million debt security designed to unlock capital for impact enterprises and microfinance 
+institutions. The impact objective was to create new economic opportunities for women in 
+Southeast Asia to help them transition from subsistence to sustainable livelihoods. In turn, the 
+bond aimed to redefine the dominant socioeconomic narrative viewing in Asia that framed poor 
+women as victims of poverty rather than drivers of development, change, and progress.159 By 2020, 
+the bond had provided 385,000 women entrepreneurs with access to credit, new market access, 
+and affordable goods and services. A second $12 million bond was issued in 2020.160 
+C. 
+Impact Investment 
+In 2017, in terms of Southeast Asia, the impact investment market was relatively small at $904 
+million of assets under management.161 The average deals size was also very small at $0.7 million 
+and more than 50% of investments went into financial services. Indeed, the GIIN 2020 survey only 
+included nine investor organizations across the whole continent or roughly 3% of the sample. 
+While this may reflect some sample bias, it suggests that, in terms of impact investment that is 
+narrowly defined, Asia remains a very underdeveloped market. Partly, this may be explained by 
+the dominance of impact finance from DFIs at $11.2 billion into the region. 
+Beyond Southeast Asia, although the PRC has been at the forefront of developing the green finance 
+market in Asia, it has yet to engage seriously with impact investment. There has also been interest 
+in developing an Asian “social” stock exchange.162 In terms of other impact investment 
+infrastructure in Asia, the Asian Venture Philanthropy Network was established in 2011 to build 
+the impact investment market and, by 2020, had 615 member organizations in 16 markets across 
+158 https://iixglobal.com/portfolio-item/iix-womens-livelihood-bond/. 
+159 https://iixglobal.com/portfolio-item/iix-womens-livelihood-bond/. 
+160 https://iixglobal.com/iixs-womens-livelihood-bond-2-successfully-closes-part-of-asia-pacifics-first-ever-multi-country-listed-gender-bond
+series/. 
+161 https://thegiin.org/research/publication/landscape-southeast-asia. 
+162 https://www.adb.org/sites/default/files/publication/29306/impact-investors.pdf. 
+37 
+Asia.163 Further, by 2020, four countries in the region had established national advisory boards for 
+impact investment as a part of the wider Global Steering Group for Impact Investment Project.164 
+X.  CONCLUSION 
+A. 
+Opportunities 
+There are several important opportunities to accelerate the growth of the sustainable finance 
+market. These can be categorized as building the supply-side, intermediation, demand-side, or 
+infrastructure of the market. Across these categories, four thematic clusters emerge. 
+1. 
+Post–COVID-19 Resilience 
+In terms of opportunities for future sustainable investment, the post–COVID landscape will require 
+significant investment into resilience and recovery programs that are focused on key social impact 
+sectors, such as health, education, and meaningful employment.165 Addressing the continued 
+shortfall in investment to achieve the SDGs also remains a key opportunity. 
+At the same time, the climate crisis will demand substantial new investment in adaptation (such as 
+better flood and fire defences), mitigation (to reduce carbon intensity and pollution), and 
+development (to devise new technologies of carbon capture).166 These issues will be particularly 
+pressing in countries already prone to flooding, such as Bangladesh, the Philippines, Thailand, and 
+Viet Nam.167 
+In these contexts, the issuance of sovereign sustainable bonds offers a potential new source of 
+impact capital at scale to address social168 and environmental169 issues. 
+2. 
+New Sources of Sustainable Finance 
+There are six important opportunities to access new capital to grow the sustainable finance market 
+substantially. 
+163 https://avpn.asia/about-us/. 
+164 https://gsgii.org/nab-countries/. The countries are Japan, Bangladesh, India, and the Republic of Korea. 
+165 https://www.youtube.com/watch?v=EuKd6i-XBV0. 
+166 https://www.nature.com/articles/d41586-019-02712-3. 
+167 https://www.imf.org/external/pubs/ft/fandd/2018/09/southeast-asia-climate-change-and-greenhouse-gas-emissions-prakash.htm. 
+168 https://www.ipe.com/sovereign-bonds-sustainable-sovereigns-will-pay-their-way/42332.article. 
+169 https://www.ft.com/content/c02a8184-5c9d-45ce-b4bd-02b028de7f63. 
+38 
+First, in the case of foundation assets, there is a huge opportunity to leverage more capital for 
+impact. Foundation assets are typically not invested for impact. For example, historically, the 
+Rockefeller Foundation has invested only about $68 million (or 1.8% of its total endowment) in 
+MRIs that are focused on renewables, clean energy and technology, and sustainable forestry. 
+Moreover, only $85 million (or 2.2%) of the endowment is invested in negative/exclusionary 
+ESG.170 This leaves roughly 96% of assets invested in the mainstream (non-impact) markets. In a 
+response to this in-balance between the impact focus of foundation assets and grant making, in 
+2017, the Ford Foundation made a strategic decision to commit $1 billion of its endowment to 
+MRIs.171 However, this was still only 8% of its total endowment of $12.4 billion. Total foundation 
+assets are estimated to be $1.5 trillion. Assuming the same MRI investment as the Rockefeller 
+Foundation, this would mean that 96% of these assets, or an additional $1.44 billion, could be 
+made available for impact finance as MRIs. 
+Second, in terms of negative/exclusionary ESG finance, there is an opportunity to move this 
+towards the Double Delta positive/integrated model to increase its impact. For example, if 50% of 
+this investment were directed towards providing additional capital to fund the SDGs, then the 
+current shortfall would disappear.172  
+Third, since 2016, there has been a 180% growth in the number of millionaires in Asia to 8.1 
+million in 2019.173 These high-net worth investors offer an opportunity for significant new 
+sustainable investment should they follow the trends in millennial investing.174 
+Fourth, there is also a promising role for faith-based finance to contribute more towards sustainable 
+impact,175 particularly Islamic finance.176  
+170 https://www.rockefellerfoundation.org/wp-content/uploads/Rockefeller-Foundation-Social-Investing-Guidelines.pdf.pdf. 
+171 https://www.fordfoundation.org/the-latest/news/ford-foundation-commits-1-billion-from-endowment-to-mission-related-investments/. 
+172 https://www.bloomberg.com/graphics/2019-green-finance/. 
+173 https://www.theasianbanker.com/updates-and-articles/china-shifts-distribution-of-wealth-upwards-across-asia-pacific. 
+174 https://www.rockefellerfoundation.org/blog/social-impact-investing-china-tipping-point/. There is also some evidence that an ESG investing 
+model developed by CASVI outperformed the PRC's benchmark index by over 4 percentage points annually over a 5-year period to 2019. 
+https://www.pionline.com/esg/why-china-missing-out-trillions-sustainable-investment. 
+175 http://faithinvest.org. 
+176 http://documents1.worldbank.org/curated/en/591721554824346344/pdf/Islamic-Green-Finance-Development-Ecosystem-and-Prospects.pdf. 
+39 
+Fifth, development finance institutions and foundations could do more to deploy their grants and 
+guarantees strategically to grow the market.177 They could operate as outcomes payers in 
+environmental and social impact bonds. 
+Finally, retail investors could use their influence as account holders and pension fund investors to 
+influence mainstream institutions to invest their assets more sustainably. 
+3. 
+Regulation 
+Following the example of Big Society Capital in the UK, as well as the ROK and Japan in Asia, 
+regulation could be put in place to release dormant bank accounts to finance sustainable finance 
+wholesalers. Similarly, government actors could use regulation to enforce disclosure of 
+nonfinancial and impact data to improve the transparency and efficiency of the market for 
+sustainable finance.178 
+4. 
+Research 
+Finally, new flows of sustainable finance could support the development of consolidated impact 
+data sets to improve the efficiency of capital allocation in the sustainable finance market, as well 
+as sponsor the establishment of regional impact stock markets leveraging existing networks, such 
+as Asian Venture Philanthropy Network and IIX. Table 3 sets out these opportunities in terms of 
+building the sustainable finance market’s supply-side, intermediation, demand-side, and other 
+opportunities such as research. 
+Table 3 Opportunities to Grow Sustainable Investment by Investor 
+Investors 
+Supply-Side 
+Intermediation 
+Foundation assets 
+Demand-Side 
+Deploy all endowment assets 
+as MRI 
+Other 
+Negative/exclusionary 
+finance 
+Deploy assets as 
+positive/integrated ESG 
+finance 
+Foundations and high 
+net worth individuals 
+Deploy grants to support 
+early-stage enterprises and 
+build infrastructure 
+Build new 
+instruments 
+Deploy grants to 
+build investment 
+readiness, 
+capacity to 
+manage 
+177 https://www.ifc.org/wps/wcm/connect/a8398ed6-55d0-4cc4-95aa
+Build 
+networks of 
+knowledge 
+and link 
+investors 
+bcbabe39f79f/DFI+Blended+Concessional+Finance+for+Private+Sector+Operations_Summary+R....pdf?MOD=AJPERES&CVID=lYCLe0B. 
+178 https://ec.europa.eu/info/business-economy-euro/company-reporting-and-auditing/company-reporting/non-financial-reporting_en. 
+40 
+41 
+ 
+Deploy concessionary capital 
+to leverage in mainstream 
+investment 
+ 
+Act as outcomes payer in 
+impact bonds 
+investment, and 
+early stage 
+‘proof or 
+concept’ 
+Faith-based finance Deploy assets as 
+positive/integrated ESG 
+finance 
+   
+Impact investors Deploy concessionary capital 
+to leverage in mainstream 
+investment  
+ 
+Act as outcomes payer in 
+impact bonds 
+Build funds and 
+wholesale 
+infrastructure 
+ Build 
+networks of 
+knowledge 
+and link 
+investors 
+Development finance 
+institutions 
+Deploy concessionary capital 
+to leverage in mainstream 
+investment 
+ 
+Act as outcomes payer in 
+impact bonds 
+Build funds and 
+wholesale 
+infrastructure 
+Deploy grants to 
+build investment 
+readiness, 
+capacity to 
+manage 
+investment, and 
+early stage 
+‘proof or 
+concept’ 
+Build 
+networks of 
+knowledge 
+and link 
+investors 
+Governments Deploy grants to support 
+early-stage enterprises and 
+build infrastructure 
+ 
+ 
+Act as outcomes payer in 
+impact bonds 
+Regulate impact 
+standards and 
+disclosure best 
+practice 
+Deploy 
+sovereign wealth 
+to social and 
+green bonds 
+ 
+Use fiscal policy 
+to build demand 
+Offer grants 
+to build 
+research in 
+universities 
+and 
+elsewhere 
+Transnational bodies Deploy grants to support 
+early-stage enterprises and 
+build infrastructure 
+Build impact 
+standards and 
+disclosure best 
+practice 
+Advocate for 
+sovereign wealth 
+to invest in 
+social and green 
+bonds 
+Build 
+research and 
+robust 
+evidence of 
+sustainable 
+investment 
+models and 
+impact 
+Retail investors Lobby pension funds to divest 
+from carbon intensive stock 
+and invest in sustainable 
+stocks 
+ Support 
+cooperative and 
+mutual firms 
+Buy ethical 
+products 
+Use the 
+media 
+and/or social 
+media to 
+advocate for 
+sustainable 
+finance 
+ESG = environmental, social, and governance; MRI = mission-related investment. 
+Source: Author’s own research. 
+C. 
+Challenges 
+1. 
+Market Efficiency 
+In terms of challenges, on the supply-side, a lack of investable deals in some sectors remains and 
+building a pipeline of investees continues to be a challenge. While there are likely to be 
+opportunities in green finance, the demand-side landscape of deals across the SDGs is less well 
+defined. Several interventions are necessary, and grants and angel finance are needed to be 
+included to support early-stage enterprises and grants to build investment readiness and the 
+capacity to manage investment and growth. 
+In terms of the infrastructure of the market, there are currently high transaction costs in putting 
+together many deals and funds because of the lack of a robust impact performance evidence base 
+and data, as well as the complexity of blended transactions. All markets function best on abundant 
+and robust performance data. However, sustainable investing lacks a “Bloomberg” for impact. As 
+things currently stand, many sustainable investing fund managers, to some extent, are building 
+their own performance data sets as they go along, learning from testing supply-side investor 
+preferences and often building the demand-side in collaboration with others to find good deals179 
+and build pipelines.180 
+2. 
+Standards and Data  
+Related to the issue of the lack of financial performance data, the sustainable investing market also 
+lacks agreed standards or regulatory structures for impact measurement or disclosure. However, 
+various initiatives are actively addressing this issue and taking a leading role in driving a consensus 
+on standards, particularly in a process of consolidation with related standards, such as the GRI, 
+PRI, and SASB. In 2019, in collaboration with the Impact Management Project,181 the UNDP has 
+developed a set of standards for investing under the SDG Impact initiative. The first of these has 
+179 For guidance: https://thegiin.org/managing-an-impact-investing-fund/. 
+180 https://sancroft.com/2019/01/30/impact-investing-a-decade-on-what-is-missing-to-scale-it-up/. 
+181 https://impactmanagementproject.com. 
+42 
+focused on private equity, with SDG bonds and enterprise standards to follow.182 As data sets 
+emerge from these standards, the transactions costs should drop. 
+3. 
+Monetization 
+A separate strand of innovation on impact reporting standards has focused on how to monetize 
+impact. Developing such methodologies offers the obvious attraction that it would allow not only 
+for a comparative analysis of impact deals and funds with a common financial unit analysis but 
+would also allow a composite impact “enterprise” value to be calculated by combining expected 
+or historical financial and monetized impact performance together. The Social Return on 
+Investment methodology pioneered such an approach that, more recently, has been taken forward 
+by various initiatives such as the Impact Multiple of Money.183  
+4. 
+Green-Washing 
+Perhaps surprisingly, in 2021, the top five ESG ranked firms were large corporations without a 
+core impact focus.184 These are: 
+182 https://sdgimpact.undp.org/practice-standards.html. 
+183 https://therisefund.com/measurement. 
+184 https://www.alpha-sense.com/insights/top-rated-esg-stocks. 
+43 
+1. NextEra Energy - the largest electric utility by market cap in the US that has been 
+consistently reducing its emissions through increased renewable energy use. Its CO2 
+emissions are 55% less than those of an average US utility. It has now set a goal of 
+reducing CO2 emissions by 67% by 2025 from its 2005 base levels meaning that absolute 
+CO2 emissions will reduce by 40% even while the firm’s energy production will double 
+during that time.  
+2. NVIDIA – a graphic cards manufacturer supplying chips to cryptocurrency miners. It has 
+a stringent policy regarding not using conflict minerals in its products. The company also 
+trains its workforce in anti-corruption and anti-bribery strategies. 
+3. Chr. Hansen – a Danish bioscience company that operates in the human nutrition space. It 
+specializes in producing bacteria that reduce pesticide usage, increase crop yield, and 
+curb food wastage, improving food security and reducing food waste.  
+4. Microsoft – committed towards carbon mitigation by becoming the first large technology 
+company to target carbon negative status by 2030. It has created a $1 billion fund to 
+reduce emissions and increase carbon capture.  
+5. Home Depot - the largest home improvement retailer in the US. It has a strict sourcing 
+policy that prevents the purchase of conflict minerals and avoids exploiting the natural 
+resources of developing countries. It plans to reduce its carbon emissions by 40% by 2030 
+and 50% by 2035.  
+Despite the substantial growth of green finance over recent years, material concerns remain around 
+transparency, disclosure, and the potential for “greenwashing”.185 For example, the World 
+Economic Forum reported that, while 63% of the companies in its ESG index had a policy in place 
+to reduce their emissions, only 35% had specific reduction targets.186 Further, according to the 
+Bank for International Settlements, in a survey of >200 firms in 2015–2018, ESG investing was 
+biased towards firms that tended to be cleaner in the first place.187 More than 70% of issuers had 
+a carbon intensity equivalent to, or lower than, a multinational consumer products firm, such as 
+Procter and Gamble. In contrast, carbon-intensive or highly polluting companies rarely issued 
+green bonds for fear of being accused of greenwashing. Moreover, many green bonds are simply 
+185 https://www.economist.com/finance-and-economics/2019/12/07/climate-change-has-made-esg-a-force-in-investing. 
+186 https://www.weforum.org/agenda/2020/01/sustainable-finance-starts-with-data/. 
+187 https://www.bis.org/publ/othp31.pdf. 
+44 
+used to refinance already green projects without an additional reduction in carbon dioxide 
+emissions). Also, such critiques have been raised against the wider sustainable finance sector.188 
+The entry of the mainstream investment banks into the impact investing market, inevitably, will 
+make it grow substantially over time, though some concerns remain over the potential for “impact- 
+or green-washing”.189 
+D. 
+Summary 
+The market for sustainable finance is growing globally. In Asia, and particularly in the PRC, the 
+sustainable finance market is accelerating too, largely driven by green bonds. The market includes 
+a range of types of capital under the broad ESG heading. The spectrum of these types of capital 
+ranges from grants to market or above market rate return investments. Sustainable finance can be 
+deployed as negative/exclusionary investments that aim to “do no harm” or positive/integrated 
+investments that can be deployed to create additional social or environmental impact typically 
+aligned with the SDGs. 
+The availability of a variety of types of capital across the spectrum of sustainable finance has 
+driven innovation in terms of new investment instruments—such as quasi-equity—and new deal 
+or fund-level investment structures categorized by blended or catalytic capital structures. 
+However, the market for sustainable investment remains at an early stage of development. Most 
+importantly, the regulatory and disclosure infrastructure remains incomplete and inconsistent 
+across countries. As a result, robust and comparable impact performance data, which is necessary 
+for the effective allocation of sustainable finance, is absent. The consequences are not only 
+inefficient capital allocation in terms of optimizing both financial and social/environmental 
+performance, but also the opportunity for impact- or green-washing. The lack of robust data also 
+adds to capital allocation transaction costs. 
+In this context, local, national, regional, and transnational governance bodies have an opportunity 
+to use policy to correct the market failures in the current sustainable finance market.  
+188For example, critiques of ESG ratings systems. https://www.economist.com/finance-and-economics/2019/12/07/climate
+change-has-made-esg-a-force-in-investing 
+as
+ well
+ as
+ warnings
+ over 
+“greenwashing” 
+funds. 
+https://www.ftadviser.com/investments/2020/07/16/be-critical-of-esg-credentials-to-avoid-greenwashing-funds/. 
+189 https://www.bloomberg.com/news/articles/2020-04-09/-social-washing-is-becoming-growing-headache-for-esg-investors. 
+45 
+The need for further dramatic growth in the supply of sustainable finance, already evidenced by 
+the shortfall in SDG funding, has been further amplified in the post-COVID19 world and the 
+acceleration of the climate crisis. To achieve this, investors, investees, intermediaries, and policy 
+makers will need to find ways to work effectively together with an increased sense of urgency. 
