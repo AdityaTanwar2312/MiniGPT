@@ -14,6 +14,11 @@ n_embd = 384
 n_head = 6
 n_layer = 6
 dropout = 0.2
+
+# Bring down the number of n_embd (embedding layers) and n_layers(networks layers)
+# if running on a Mac or CPU. (GPU is recommended for reproducing this)
+
+
 # ------------
 
 torch.manual_seed(1337)
