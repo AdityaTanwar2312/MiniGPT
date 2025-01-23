@@ -16,10 +16,6 @@ MiniGPT is an implimentaion of how to construct a transformer model from scrach 
 
 ### 3. Self-Attention Mechanism
 - Assigns attention scores to tokens, focusing on the most relevant context for each word.
-- **Formula**: 
-  \[
-  \text{Attention(Q, K, V)} = \text{softmax}\left(\frac{Q \cdot K^T}{\sqrt{d_k}}\right) V
-  \]
   - **Query (Q)**: Represents the current token.
   - **Key (K)**: Represents the context tokens.
   - **Value (V)**: Provides the relevant information.
@@ -31,15 +27,8 @@ MiniGPT is an implimentaion of how to construct a transformer model from scrach 
 ### 5. Feed-Forward Network
 - Processes outputs from the attention layer through fully connected layers for complex transformations.
 
-### 6. Language Modeling Objective
-- Trains the model to predict the next word based on prior context:
-  \[
-  P(w_t | w_{t-1}, w_{t-2}, ..., w_1)
-  \]
 <img width="296" alt="image" src="https://github.com/user-attachments/assets/910932e4-7f87-47c7-a6c5-0c7c76ad32ab" />
 
-
----
 
 
 ## Validation loss grph for the GPT
